@@ -8,7 +8,7 @@ from typing import Any
 from langchain.tools import tool
 from serpapi import GoogleSearch
 
-_CACHE_PATH = Path(__file__).with_name("attraction_cache.json")
+_CACHE_PATH = Path(__file__).resolve().parent.parent / "data" / "attraction_cache.json"
 _CACHE_LOCK = threading.Lock()
 
 

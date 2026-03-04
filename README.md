@@ -8,6 +8,15 @@
     - 测试文件名要以 `test_` 开头，后跟被测试的文件名
     - 例如：`test_google_flight_serpapi.py`
 
+## 将项目文件提交到github上时要发给其他成员工具的核心逻辑说明！
+**需要包含：**
+1. 核心逻辑
+2. 如何使用
+3. 程序执行流程
+4. 输出结果结构
+5. 当前运行结果说明
+**参照attraction_tool_explanation.pdf**
+
 安装虚拟环境和依赖请参考Install_venv_and_dependencies.md
 
 以下链接是指导如何操作github的：
