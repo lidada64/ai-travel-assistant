@@ -8,6 +8,15 @@
     - 测试文件名要以 `test_` 开头，后跟被测试的文件名
     - 例如：`test_google_flight_serpapi.py`
 
+## 将项目文件提交到github上时要发给其他成员工具的核心逻辑说明！
+**需要包含：**
+1. 核心逻辑
+2. 如何使用
+3. 程序执行流程
+4. 输出结果结构
+5. 当前运行结果说明
+**参照attraction_tool_explanation.pdf**
+
 安装虚拟环境和依赖请参考Install_venv_and_dependencies.md
 
 以下链接是指导如何操作github的：
@@ -226,3 +235,47 @@ final_version_v2.py
 - ❌ 不写 commit message
     
 
+
+## 景点信息工具（Attraction Information Tool）
+
+### 1) 环境变量配置
+请在本地环境变量或 `.env` 中配置：
+
+```bash
+SERPAPI_API_KEY=your_serpapi_key
+```
+
+> 注意：不要提交真实 key 到仓库。
+
+### 2) 工具位置与能力
+- 文件：`app/tools/attraction_tool.py`
+- 核心函数：`get_attraction_info(attraction_name: str, location: str | None = None) -> dict`
+- 返回字段：
+  - `name`
+  - `image_url`
+  - `opening_hours`
+  - `visit_duration`
+  - `ticket_price`
+  - `sources`（至少保留 3 条可追溯来源）
+- 搜索引擎：SerpAPI Google Search + Google Images
+- 查询策略：
+  - `{name} opening hours`
+  - `{name} ticket price`
+  - `{name} how long to spend`
+  - `{name} official website`
+
+### 3) 缓存说明
+- 使用本地 JSON 缓存：`app/tools/attraction_cache.json`
+- 相同景点与 location 的重复请求会直接命中缓存，减少 API 调用。
+
+### 4) 运行最小 demo
+```bash
+python app/agents/attraction_demo.py
+```
+
+### 5) 与 Agent 集成
+`app/agents/main_agent.py` 已注册 `attraction_information_tool`，Agent 在生成 itinerary 时可调用该工具补充：
+- 营业时间
+- 建议游玩时长
+- 门票价格
+- 图片链接与来源
