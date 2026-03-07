@@ -8,6 +8,43 @@
     - 测试文件名要以 `test_` 开头，后跟被测试的文件名
     - 例如：`test_google_flight_serpapi.py`
 
+## 以下是如何开始创建branch而不影响main中的代码，确认代码完成后创建pull request的流程：
+每次开始新任务时：
+```bash
+git checkout main
+git pull origin main
+git checkout -b feature/功能名
+```
+含义是：
+
+1️⃣ 切换到主分支
+2️⃣ 拉取最新代码
+3️⃣ 从最新的 main 创建新分支
+
+这样可以保证：
+```bash
+feature branch
+    ↑
+最新 main
+```
+不会基于旧代码开发。
+
+开发完成后的流程
+
+团队成员提交 PR 前：
+```bash
+git add .
+git commit -m "Add login feature"
+git push origin feature/add-login
+```
+
+然后在 GitHub：
+
+```bash
+feature/add-login → main
+``` 
+
+创建 Pull Request。
 ## 将项目文件提交到github上时要发给其他成员工具的核心逻辑说明！
 **需要包含：**
 1. 核心逻辑
