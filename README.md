@@ -233,7 +233,17 @@ final_version_v2.py
 - ❌ 直接改 main
     
 - ❌ 不写 commit message
-    
+
+
+## 🎨 前端部分 (Frontend)
+本项目前端基于 Vue.js + Vite 构建。
+
+### 快速启动
+1. `cd frontend`
+2. `npm install`
+3. `npm run dev`
+
+更多详细的环境配置与开发规范，请参阅 [前端说明文档](./frontend/README.md)。
 
 
 ## 景点信息工具（Attraction Information Tool）
