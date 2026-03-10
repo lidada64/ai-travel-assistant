@@ -62,6 +62,9 @@ https://github.com/firstcontributions/first-contributions/blob/main/docs/transla
 很多API可以在https://serpapi.com/google-images-api 中获取
 
 **提交文件时不要提交.env中的api_key!!!** 
+```Powershell
+Copy-Item .env.example .env
+```
 请在本地环境变量中配置。
 
 如有其他问题有待补充则后续补充
