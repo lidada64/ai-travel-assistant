@@ -1,5 +1,5 @@
 # Github团队协作规则：
-
+# **一定一定在提交文件时不要提交.env中的api_key!!!** 
 1. 文件命名格式：
     - 所有文件都要使用下划线命名法（snake_case）
     - 例如：`google_flight_serpapi_test.py`
@@ -61,7 +61,6 @@ https://github.com/firstcontributions/first-contributions/blob/main/docs/transla
 
 很多API可以在https://serpapi.com/google-images-api 中获取
 
-**提交文件时不要提交.env中的api_key!!!** 
 请在本地环境变量中配置。
 
 如有其他问题有待补充则后续补充
