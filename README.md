@@ -1,5 +1,5 @@
 # Github团队协作规则：
-
+# **一定一定在提交文件时不要提交.env中的api_key!!!** 
 1. 文件命名格式：
     - 所有文件都要使用下划线命名法（snake_case）
     - 例如：`google_flight_serpapi_test.py`
@@ -8,6 +8,52 @@
     - 测试文件名要以 `test_` 开头，后跟被测试的文件名
     - 例如：`test_google_flight_serpapi.py`
 
+## 以下是如何开始创建branch而不影响main中的代码，确认代码完成后创建pull request的流程：
+每次开始新任务时：
+```bash
+git checkout main
+git pull origin main
+git checkout -b feature/功能名
+```
+含义是：
+
+1️⃣ 切换到主分支
+2️⃣ 拉取最新代码
+3️⃣ 从最新的 main 创建新分支
+
+这样可以保证：
+```bash
+feature branch
+    ↑
+最新 main
+```
+不会基于旧代码开发。
+
+开发完成后的流程
+
+团队成员提交 PR 前：
+```bash
+git add .
+git commit -m "Add login feature"
+git push origin feature/add-login
+```
+
+然后在 GitHub：
+
+```bash
+feature/add-login → main
+``` 
+
+创建 Pull Request。
+## 将项目文件提交到github上时要发给其他成员工具的核心逻辑说明！
+**需要包含：**
+1. 核心逻辑
+2. 如何使用
+3. 程序执行流程
+4. 输出结果结构
+5. 当前运行结果说明
+**参照attraction_tool_explanation.pdf**
+
 安装虚拟环境和依赖请参考Install_venv_and_dependencies.md
 
 以下链接是指导如何操作github的：
@@ -15,7 +61,6 @@ https://github.com/firstcontributions/first-contributions/blob/main/docs/transla
 
 很多API可以在https://serpapi.com/google-images-api 中获取
 
-**提交文件时不要提交.env中的api_key!!!** 
 请在本地环境变量中配置。
 
 如有其他问题有待补充则后续补充
@@ -236,3 +281,47 @@ final_version_v2.py
 
 更多详细的环境配置与开发规范，请参阅 [前端说明文档](./frontend/README.md)。
 
+
+## 景点信息工具（Attraction Information Tool）
+
+### 1) 环境变量配置
+请在本地环境变量或 `.env` 中配置：
+
+```bash
+SERPAPI_API_KEY=your_serpapi_key
+```
+
+> 注意：不要提交真实 key 到仓库。
+
+### 2) 工具位置与能力
+- 文件：`app/tools/attraction_tool.py`
+- 核心函数：`get_attraction_info(attraction_name: str, location: str | None = None) -> dict`
+- 返回字段：
+  - `name`
+  - `image_url`
+  - `opening_hours`
+  - `visit_duration`
+  - `ticket_price`
+  - `sources`（至少保留 3 条可追溯来源）
+- 搜索引擎：SerpAPI Google Search + Google Images
+- 查询策略：
+  - `{name} opening hours`
+  - `{name} ticket price`
+  - `{name} how long to spend`
+  - `{name} official website`
+
+### 3) 缓存说明
+- 使用本地 JSON 缓存：`app/tools/attraction_cache.json`
+- 相同景点与 location 的重复请求会直接命中缓存，减少 API 调用。
+
+### 4) 运行最小 demo
+```bash
+python app/agents/attraction_demo.py
+```
+
+### 5) 与 Agent 集成
+`app/agents/main_agent.py` 已注册 `attraction_information_tool`，Agent 在生成 itinerary 时可调用该工具补充：
+- 营业时间
+- 建议游玩时长
+- 门票价格
+- 图片链接与来源
