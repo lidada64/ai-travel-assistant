@@ -48,8 +48,18 @@ from langchain_core.tools import tool
 from langsmith import traceable
 
 load_dotenv()
-os.environ["LANGCHAIN_TRACING_V2"] = os.getenv("LANGCHAIN_TRACING_V2", "true")
-os.environ["LANGCHAIN_PROJECT"]    = os.getenv("LANGCHAIN_PROJECT", "flight-agent")
+
+if "LANGCHAIN_PROJECT" not in os.environ:
+    os.environ["LANGCHAIN_PROJECT"] = os.getenv("LANGCHAIN_PROJECT", "flight-agent")
+
+langsmith_key = (os.getenv("LANGCHAIN_API_KEY") or "").strip()
+tracing_env = (os.getenv("LANGCHAIN_TRACING_V2") or "").strip().lower()
+if not langsmith_key:
+    os.environ["LANGCHAIN_TRACING_V2"] = "false"
+elif tracing_env:
+    os.environ["LANGCHAIN_TRACING_V2"] = tracing_env
+else:
+    os.environ["LANGCHAIN_TRACING_V2"] = "false"
 
 # ── SerpAPI（可选，没有就用模拟数据）─────────────────────────────────────────
 SERPAPI_KEY = os.getenv("SERPAPI_API_KEY")
