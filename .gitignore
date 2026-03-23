@@ -11,3 +11,8 @@ frontend/build/
 frontend/.env
 frontend/.env.local
 frontend/前端页面设计v1.md
+
+# Backend
+.env
+__pycache__/
+*.pyc
