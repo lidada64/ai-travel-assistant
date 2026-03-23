@@ -23,8 +23,8 @@ flight_tool.py - 机票查询工具（使用 SerpAPI Google Flights）
       "airline_company": "MAS",
       "departure_airport": "KUL",
       "arrival_airport": "BKK",
-      "departure_date": "2026-03-26T14:00:00",
-      "arrival_date": "2026-03-26T15:10:00",
+      "departure_date": "2026-03-26 T14:00:00",
+      "arrival_date": "2026-03-26 T15:10:00",
       "price": 450.00,
       "luggage_limitation": "20kg"
     }
@@ -147,8 +147,8 @@ def _generate_mock_flights(origin, destination, departure_date, passengers):
                 "airline_company":   info["company"],
                 "departure_airport": origin,
                 "arrival_airport":   destination,
-                "departure_date":    dep_dt.strftime("%Y-%m-%dT%H:%M:%S"),
-                "arrival_date":      arr_dt.strftime("%Y-%m-%dT%H:%M:%S"),
+                "departure_date":    dep_dt.strftime("%Y-%m-%dT %H:%M:%S"),
+                "arrival_date":      arr_dt.strftime("%Y-%m-%dT %H:%M:%S"),
                 "price":             price,
                 "total_price":       round(price * passengers, 2),
                 "luggage_limitation": bag_kg if has_bag else "No checked bag",
@@ -195,8 +195,8 @@ def _search_serpapi(origin, destination, departure_date, passengers, currency):
         try:
             dep_dt = datetime.strptime(dep_time_str, "%Y-%m-%d %H:%M")
             arr_dt = datetime.strptime(arr_time_str, "%Y-%m-%d %H:%M")
-            dep_iso = dep_dt.strftime("%Y-%m-%dT%H:%M:%S")
-            arr_iso = arr_dt.strftime("%Y-%m-%dT%H:%M:%S")
+            dep_iso = dep_dt.strftime("%Y-%m-%dT %H:%M:%S")
+            arr_iso = arr_dt.strftime("%Y-%m-%dT %H:%M:%S")
         except Exception:
             dep_iso = dep_time_str
             arr_iso = arr_time_str

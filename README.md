@@ -236,3 +236,8 @@ final_version_v2.py
 
 更多详细的环境配置与开发规范，请参阅 [前端说明文档](./frontend/README.md)。
 
+## 🔧 后端部分 (Backend)
+  本项目后端使用FastAPI框架构建，主要负责处理前端请求、调用外部API（如Amadeus、Google Search等）、管理数据库等。
+### 快速启动
+ uvicorn app.server:app --host 127.0.0.1 --port 8000
+

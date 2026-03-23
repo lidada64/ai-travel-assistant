@@ -114,6 +114,22 @@ export const useItineraryStore = defineStore('itinerary', {
       this.ai.running = false
     },
     async generateItinerary(payload) {
+      if (this._activeAbortController) {
+        try {
+          this._activeAbortController.abort()
+        } catch {}
+      }
+
+      const controller = new AbortController()
+      this._activeAbortController = controller
+      const timeoutMsRaw = Number(import.meta.env.VITE_API_TIMEOUT_MS)
+      const timeoutMs = Number.isFinite(timeoutMsRaw) && timeoutMsRaw > 0 ? timeoutMsRaw : 90_000
+      const timeoutId = setTimeout(() => {
+        try {
+          controller.abort()
+        } catch {}
+      }, timeoutMs)
+
       this.ui.loading = true
       this.ui.error = null
       this.raw = { flights: [], hotels: [], views: [] }
@@ -159,6 +175,7 @@ export const useItineraryStore = defineStore('itinerary', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify(body),
+          signal: controller.signal,
         })
 
         let json = null
@@ -191,6 +208,13 @@ export const useItineraryStore = defineStore('itinerary', {
         this.appendAiLine({ level: 'system', text: '> Done: Itinerary generated.' })
         return this.raw
       } catch (e) {
+        if (e?.name === 'AbortError') {
+          const err = new Error('Request aborted or timed out. Please try again.')
+          err.status = 408
+          this.ui.error = err.message
+          this.appendAiLine({ level: 'error', text: `> Error: ${err.message}` })
+          throw err
+        }
         const status = e?.status
         const msg = String(e?.message || humanizeError(status))
         this.ui.error = msg
@@ -198,6 +222,8 @@ export const useItineraryStore = defineStore('itinerary', {
         throw e
       } finally {
         clearInterval(timer)
+        clearTimeout(timeoutId)
+        if (this._activeAbortController === controller) this._activeAbortController = null
         this.stopAi()
         this.ui.loading = false
       }
