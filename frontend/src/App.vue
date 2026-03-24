@@ -14,12 +14,6 @@ import { RouterLink, RouterView } from 'vue-router'
             active-class="border-[var(--line-strong)] text-[var(--chalk)]"
             >Builder</RouterLink
           >
-          <RouterLink
-            to="/map"
-            class="border-b border-transparent pb-1 hover:text-[var(--chalk)]"
-            active-class="border-[var(--line-strong)] text-[var(--chalk)]"
-            >Map</RouterLink
-          >
         </nav>
       </div>
     </header>
