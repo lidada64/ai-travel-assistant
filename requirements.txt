@@ -5,3 +5,5 @@ langchain-google-genai
 google-search-results
 langsmith
 geopy
+fastapi
+uvicorn[standard]
