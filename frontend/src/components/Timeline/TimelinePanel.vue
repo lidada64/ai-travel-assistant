@@ -82,7 +82,7 @@ function formatTime(isoString) {
               </div>
               <div class="flex justify-between items-end mt-4 pt-3 border-t border-[var(--line)]">
                 <div class="text-[11px] text-[var(--dim)]">{{ f.luggage_limitation || 'No checked bag info' }}</div>
-                <div class="text-[14px] font-mono text-[var(--chalk)]">{{ f.price > 0 ? `¥${f.price}` : 'Price TBD' }}</div>
+                <div class="text-[14px] font-mono text-[var(--chalk)]">{{ f.price > 0 ? `RM${f.price}` : 'Price TBD' }}</div>
               </div>
             </div>
           </div>
@@ -108,7 +108,7 @@ function formatTime(isoString) {
                 </div>
               </div>
               <div class="flex flex-col justify-between items-end min-w-[100px] border-t md:border-t-0 md:border-l border-[var(--line)] pt-3 md:pt-0 md:pl-4">
-                <div class="text-[15px] font-mono text-[var(--chalk)] mb-2">{{ h.price > 0 ? `¥${h.price}` : 'Price TBD' }}</div>
+                <div class="text-[15px] font-mono text-[var(--chalk)] mb-2">{{ h.price > 0 ? `RM${h.price}` : 'Price TBD' }}</div>
                 <a v-if="h.hotel_source && h.hotel_source.startsWith('http')" :href="h.hotel_source" target="_blank" class="text-[11px] uppercase tracking-wider text-[var(--dim)] hover:text-[var(--chalk)] border border-[var(--line)] px-2 py-1">View Details</a>
               </div>
             </div>
@@ -139,7 +139,7 @@ function formatTime(isoString) {
                     <span>🕒</span> {{ v.open_time }}
                   </div>
                   <div class="flex items-center gap-1.5 col-span-2 mt-1">
-                    <span>🎟</span> <span class="font-mono text-[var(--chalk)]">{{ v.price > 0 ? `¥${v.price}` : 'Free / TBD' }}</span>
+                    <span>🎟</span> <span class="font-mono text-[var(--chalk)]">{{ v.price > 0 ? `RM${v.price}` : 'Free / TBD' }}</span>
                   </div>
                 </div>
               </div>
