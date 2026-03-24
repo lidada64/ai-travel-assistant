@@ -1,0 +1,25 @@
+<script setup>
+import ItineraryForm from '../components/ItineraryForm.vue'
+import TimelinePanel from '../components/Timeline/TimelinePanel.vue'
+import DiscoOrb from '../components/DiscoOrb.vue'
+</script>
+
+<template>
+  <div class="grid grid-cols-12 gap-6">
+    <aside class="col-span-12 lg:col-span-4">
+      <div class="flex h-full flex-col gap-4">
+        <!-- 独立的 DiscoOrb 容器，放置在表单上方 -->
+        <div class="w-full border border-[var(--line)] bg-[rgba(10,10,10,0.6)]">
+          <div class="h-[150px] w-full">
+            <DiscoOrb />
+          </div>
+        </div>
+        <ItineraryForm />
+      </div>
+    </aside>
+    <section class="col-span-12 lg:col-span-8">
+      <TimelinePanel />
+    </section>
+  </div>
+</template>
+
