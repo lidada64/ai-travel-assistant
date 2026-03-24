@@ -485,5 +485,1635 @@
       "https://en.wikipedia.org/wiki/Independence_Square_(Kuala_Lumpur)",
       "https://www.tripadvisor.com/Attraction_Review-g298570-d447385-Reviews-Dataran_Merdeka-Kuala_Lumpur_Wilayah_Persekutuan.html"
     ]
+  },
+  "从吉隆坡到曼谷，帮我安排三天的行程 old town::从吉隆坡到曼谷，帮我安排三天的行程": {
+    "query_type": "attraction_info",
+    "name": "从吉隆坡到曼谷，帮我安排三天的行程 Old Town",
+    "description": "",
+    "image_url": "https://serpapi.com/searches/69c2509f5c4bf4738cd69a56/images/G6uh5LvFXBKSS4LYIx9vF1REBkehMdEN6XXjIw6IRPw.png",
+    "opening_hours": "",
+    "visit_duration": "4-6 hours (estimated)",
+    "ticket_price": "",
+    "ticket_status": "unknown",
+    "price_type": "unknown",
+    "price_note": "Official price not found.",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://www.cs.cmu.edu/afs/cs.cmu.edu/project/cmt-40/Nice/Transfer/Chinese/wikilex-20070908-zh-en.txt",
+      "https://www.oieie.tku.edu.tw/oieie/wp-content/uploads/2024/11/2023%E7%95%99%E5%AD%B8EASYGO-%E7%B7%9A%E4%B8%8A%E7%89%88.pdf",
+      "https://www.oieie.tku.edu.tw/oieie/wp-content/uploads/2024/11/2022%E7%95%99%E5%AD%B8EASYGO_renew.pdf"
+    ]
+  },
+  "从吉隆坡到曼谷，帮我安排三天的行程 city park::从吉隆坡到曼谷，帮我安排三天的行程": {
+    "query_type": "attraction_info",
+    "name": "从吉隆坡到曼谷，帮我安排三天的行程 City Park",
+    "description": "",
+    "image_url": "https://serpapi.com/searches/69c2519d5a5e964c50c37d1a/images/NQOJQz1dZbLd9xtNx_UNvMgrBEAzbEzG3hD3JSplyEo.png",
+    "opening_hours": "",
+    "visit_duration": "2-3 hours (estimated)",
+    "ticket_price": "",
+    "ticket_status": "unknown",
+    "price_type": "unknown",
+    "price_note": "Official price not found.",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://cn.tripadvisor.com/AttractionProductReview-g45963-d19894686-Grand_Canyon_Antelope_Canyon_and_Horseshoe_Bend_Day_Tour-Las_Vegas_Nevada.html",
+      "https://cn.tripadvisor.com/AttractionProductReview-g293925-d15779016-Saigon_Night_Sights_Local_Food_by_Motorbike_Opt_Ao_Dai_Riders-Ho_Chi_Minh_City.html",
+      "https://hk.trip.com/blog/bangkok-191-kualalumpur-45-7days-itinerary-10000596733/"
+    ]
+  },
+  "?????????3???,??2000??? old town::?????????3???,??2000???": {
+    "query_type": "attraction_info",
+    "name": "?????????3???,??2000??? Old Town",
+    "description": "",
+    "image_url": "https://serpapi.com/searches/69c2532cf96561f4a7dd40bf/images/FOnFWxuxcrvsSlNu0duIHvCwhLqqAe4JdFVJtplSqsQ.png",
+    "opening_hours": "",
+    "visit_duration": "24 hours",
+    "ticket_price": "RM 470–RM 47000",
+    "ticket_status": "paid",
+    "price_type": "range",
+    "price_note": "Parsed from ticket-related source content (16 candidates reviewed)",
+    "ticket_price_candidates": [
+      {
+        "value": 100.0,
+        "currency": "USD",
+        "raw_price_text": "$100",
+        "context": "enger in a vehicle. Nonresident Fees The following national parks also charge a $100 nonresident fee to non-U.S. residents ages 16 and over: Acadia National Park, B",
+        "title": "Entrance Fees by Park (U.S. National Park Service)",
+        "source": "official_homepage",
+        "source_type": "official_homepage",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.nps.gov/aboutus/entrance-fee-prices.htm"
+      },
+      {
+        "value": 1040.0,
+        "currency": "MYR",
+        "raw_price_text": "rm 1040",
+        "context": "andard Deduction Retirement Plans Forms Overview POPULAR FORMS & INSTRUCTIONS Form 1040 Individual Income Tax Return Form 1040 Instructions Instructions for Form 1040",
+        "title": "Internal Revenue Service | An official website of the United ...",
+        "source": "official_homepage",
+        "source_type": "official_homepage",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.irs.gov/"
+      },
+      {
+        "value": 1040.0,
+        "currency": "MYR",
+        "raw_price_text": "rm 1040",
+        "context": "Overview POPULAR FORMS & INSTRUCTIONS Form 1040 Individual Income Tax Return Form 1040 Instructions Instructions for Form 1040 Form W-9 Request for Taxpayer Identific",
+        "title": "Internal Revenue Service | An official website of the United ...",
+        "source": "official_homepage",
+        "source_type": "official_homepage",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.irs.gov/"
+      },
+      {
+        "value": 1040.0,
+        "currency": "MYR",
+        "raw_price_text": "rm 1040",
+        "context": "orm 1040 Individual Income Tax Return Form 1040 Instructions Instructions for Form 1040 Form W-9 Request for Taxpayer Identification Number (TIN) and Certification For",
+        "title": "Internal Revenue Service | An official website of the United ...",
+        "source": "official_homepage",
+        "source_type": "official_homepage",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.irs.gov/"
+      },
+      {
+        "value": 4506.0,
+        "currency": "MYR",
+        "raw_price_text": "rm 4506",
+        "context": "0 Form W-9 Request for Taxpayer Identification Number (TIN) and Certification Form 4506-T Request for Transcript of Tax Return Form W-4 Employee&#039;s Withholding Cer",
+        "title": "Internal Revenue Service | An official website of the United ...",
+        "source": "official_homepage",
+        "source_type": "official_homepage",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.irs.gov/"
+      },
+      {
+        "value": 941.0,
+        "currency": "MYR",
+        "raw_price_text": "rm 941",
+        "context": "for Transcript of Tax Return Form W-4 Employee&#039;s Withholding Certificate Form 941 Employer&#039;s Quarterly Federal Tax Return Form W-2 Wage and Tax Statement Fo",
+        "title": "Internal Revenue Service | An official website of the United ...",
+        "source": "official_homepage",
+        "source_type": "official_homepage",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.irs.gov/"
+      },
+      {
+        "value": 9465.0,
+        "currency": "MYR",
+        "raw_price_text": "rm 9465",
+        "context": "Employer&#039;s Quarterly Federal Tax Return Form W-2 Wage and Tax Statement Form 9465 Installment Agreement Request POPULAR FOR TAX PROS Form 1040-X Amended Individu",
+        "title": "Internal Revenue Service | An official website of the United ...",
+        "source": "official_homepage",
+        "source_type": "official_homepage",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.irs.gov/"
+      },
+      {
+        "value": 1040.0,
+        "currency": "MYR",
+        "raw_price_text": "rm 1040",
+        "context": "nd Tax Statement Form 9465 Installment Agreement Request POPULAR FOR TAX PROS Form 1040-X Amended Individual Income Tax Return Form 2848 Power of Attorney Form W-7 App",
+        "title": "Internal Revenue Service | An official website of the United ...",
+        "source": "official_homepage",
+        "source_type": "official_homepage",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.irs.gov/"
+      },
+      {
+        "value": 2848.0,
+        "currency": "MYR",
+        "raw_price_text": "rm 2848",
+        "context": "Request POPULAR FOR TAX PROS Form 1040-X Amended Individual Income Tax Return Form 2848 Power of Attorney Form W-7 Apply for an ITIN Circular 230 Regulations Governing",
+        "title": "Internal Revenue Service | An official website of the United ...",
+        "source": "official_homepage",
+        "source_type": "official_homepage",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.irs.gov/"
+      },
+      {
+        "value": 1040.0,
+        "currency": "MYR",
+        "raw_price_text": "rm 1040",
+        "context": "rd Deduction Retirement Plans Forms Overview POPULAR FORMS &amp; INSTRUCTIONS Form 1040 Form 1040 Instructions Form W-9 Form 4506-T Form W-4 Form 941 Form W-2 Form 946",
+        "title": "Internal Revenue Service | An official website of the United ...",
+        "source": "official_homepage",
+        "source_type": "official_homepage",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.irs.gov/"
+      },
+      {
+        "value": 1040.0,
+        "currency": "MYR",
+        "raw_price_text": "rm 1040",
+        "context": "on Retirement Plans Forms Overview POPULAR FORMS &amp; INSTRUCTIONS Form 1040 Form 1040 Instructions Form W-9 Form 4506-T Form W-4 Form 941 Form W-2 Form 9465 POPULAR",
+        "title": "Internal Revenue Service | An official website of the United ...",
+        "source": "official_homepage",
+        "source_type": "official_homepage",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.irs.gov/"
+      },
+      {
+        "value": 4506.0,
+        "currency": "MYR",
+        "raw_price_text": "rm 4506",
+        "context": "ew POPULAR FORMS &amp; INSTRUCTIONS Form 1040 Form 1040 Instructions Form W-9 Form 4506-T Form W-4 Form 941 Form W-2 Form 9465 POPULAR FOR TAX PROS Form 1040-X Form 28",
+        "title": "Internal Revenue Service | An official website of the United ...",
+        "source": "official_homepage",
+        "source_type": "official_homepage",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.irs.gov/"
+      },
+      {
+        "value": 941.0,
+        "currency": "MYR",
+        "raw_price_text": "rm 941",
+        "context": "; INSTRUCTIONS Form 1040 Form 1040 Instructions Form W-9 Form 4506-T Form W-4 Form 941 Form W-2 Form 9465 POPULAR FOR TAX PROS Form 1040-X Form 2848 Form W-7 Circular",
+        "title": "Internal Revenue Service | An official website of the United ...",
+        "source": "official_homepage",
+        "source_type": "official_homepage",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.irs.gov/"
+      },
+      {
+        "value": 9465.0,
+        "currency": "MYR",
+        "raw_price_text": "rm 9465",
+        "context": "m 1040 Form 1040 Instructions Form W-9 Form 4506-T Form W-4 Form 941 Form W-2 Form 9465 POPULAR FOR TAX PROS Form 1040-X Form 2848 Form W-7 Circular 230 Report Fraud O",
+        "title": "Internal Revenue Service | An official website of the United ...",
+        "source": "official_homepage",
+        "source_type": "official_homepage",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.irs.gov/"
+      },
+      {
+        "value": 1040.0,
+        "currency": "MYR",
+        "raw_price_text": "rm 1040",
+        "context": "orm W-9 Form 4506-T Form W-4 Form 941 Form W-2 Form 9465 POPULAR FOR TAX PROS Form 1040-X Form 2848 Form W-7 Circular 230 Report Fraud Overview Tax fraud and scams Ide",
+        "title": "Internal Revenue Service | An official website of the United ...",
+        "source": "official_homepage",
+        "source_type": "official_homepage",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.irs.gov/"
+      },
+      {
+        "value": 2848.0,
+        "currency": "MYR",
+        "raw_price_text": "rm 2848",
+        "context": "4506-T Form W-4 Form 941 Form W-2 Form 9465 POPULAR FOR TAX PROS Form 1040-X Form 2848 Form W-7 Circular 230 Report Fraud Overview Tax fraud and scams Identity theft",
+        "title": "Internal Revenue Service | An official website of the United ...",
+        "source": "official_homepage",
+        "source_type": "official_homepage",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.irs.gov/"
+      }
+    ],
+    "sources": [
+      "https://www.tn.gov/",
+      "https://www.nps.gov/aboutus/entrance-fee-prices.htm",
+      "https://www.irs.gov/"
+    ]
+  },
+  "?????????3???,??2000??? city park::?????????3???,??2000???": {
+    "query_type": "attraction_info",
+    "name": "?????????3???,??2000??? City Park",
+    "description": "",
+    "image_url": "https://serpapi.com/searches/69c25349b9dbc4fdf6ba3541/images/uF-9ykOOyK22lOcdjifjtflJy3F4BZWgn_USs1yWOIQ.png",
+    "opening_hours": "",
+    "visit_duration": "1-2 hours (estimated)",
+    "ticket_price": "RM 0–RM 9400",
+    "ticket_status": "paid",
+    "price_type": "range",
+    "price_note": "Parsed from ticket-related source content (20 candidates reviewed)",
+    "ticket_price_candidates": [
+      {
+        "value": 2000.0,
+        "currency": "USD",
+        "raw_price_text": "$20,00",
+        "context": "e exemption under paragraph (a), clauses (1) and (2), applies only to the first $20,000 of the gross annual receipts of the organization from fundraising; (2) the exe",
+        "title": "Sec. 297A.70 MN Statutes",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.revisor.mn.gov/statutes/cite/297a.70"
+      },
+      {
+        "value": 2000.0,
+        "currency": "USD",
+        "raw_price_text": "$20,00",
+        "context": "te organization from the school district or school for purposes of applying the $20,000 limit. § Subd. 14. Fundraising events sponsored by nonprofit groups. (a) Sales",
+        "title": "Sec. 297A.70 MN Statutes",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.revisor.mn.gov/statutes/cite/297a.70"
+      },
+      {
+        "value": 4.0,
+        "currency": "MYR",
+        "raw_price_text": "RM 4",
+        "context": "á4ò÷ÊÔ%ÝÈú^£\"4R `_uºÞ\u00182%ei\u001a*kx/*ÛH\u001a\u000eý´L4==Úþ\\®(©Ë\u0006nÎh\u0003op©ï w9g´ÊÊ23ö]\u0002RM 4M-3ÚÈ¯²NþW\u0006®v)e´+EBê&­rUY`\u0014_ÕªB¾ÛGzjÞ«ÊV2k÷FvÑÌz< Úµ\\+P85£ÏìX\u0016i.\u0019\u0012V\u0011",
+        "title": "Parks and Recreation - Policies and Fees Manual",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.nashville.gov/sites/default/files/2025-09/3-policies_fees_manual.pdf?ct=1758723862"
+      },
+      {
+        "value": 9.0,
+        "currency": "USD",
+        "raw_price_text": "$9",
+        "context": "~> E2Fzu¸&.iÓìþã¦ ÇÐõ³;½iÍTJ=Ð\u0019d_y\u0014³RÝü «z× Sê¾È\u0015ö#Õ× ®=}\u000f²\u001aÒãÂÖÔAõ\u0018tvõ\u0018+í\u0019¥I$9ø Tº]9 ]½K:xI 1zÇ)T©Õ¹þ\u0003¡¥FîþgÇ§I_>÷ú\u0004+ÿ\u0017zTµÕÖ \u0000ãp\u0003Výf\u0000X\u0004@¶\u001bÈDª[^ÊÀ+.¯ìc\u0016Ê",
+        "title": "Parks and Recreation - Policies and Fees Manual",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.nashville.gov/sites/default/files/2025-09/3-policies_fees_manual.pdf?ct=1758723862"
+      },
+      {
+        "value": 0.0,
+        "currency": "USD",
+        "raw_price_text": "$0",
+        "context": "Úì´Þ¿ßDËÄ\u000e¿´T\u0018òó§ª?Õ!¬,E©Â*+Æ\u000f1Pª+gÅ^á¬¶Ø9 N!¾¢}¾³~ª£Â \u0011\u0013ÓêÄó,s`à ´J$0QÚÆ)èTHÛ»¹80` J}±[ sÛ¬\u0001ó-óÛg9B{3ßCguN²Øî¹\u0014êÆ 7:ªnFÇi¨ñö U÷ÙíÍ|7ýDÇÖÛ",
+        "title": "Parks and Recreation - Policies and Fees Manual",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.nashville.gov/sites/default/files/2025-09/3-policies_fees_manual.pdf?ct=1758723862"
+      },
+      {
+        "value": 9.0,
+        "currency": "USD",
+        "raw_price_text": "$9",
+        "context": "¬×\u0005åt¥Ù\u0005áPN\u0017(rþ]´n\u0001Õ\u0015\u0018G\u0012gÓçÉb\u0003¢\u0002Â\u0003Ò#5ú\bã³\u0002 Hü¾l\"X®«è,7&ÚÔs,K-\u001bHüêêß¿$9lëäë#×I×õ ºB}!ÑsýÒ0)@§\u000f)ÜnÕ.\\ZºBà½ \u0014\u001amñVÍy²2C'®µ¥TN*.MÏ 2$dÄ\u0007Ç¦\u0017õÀ¤",
+        "title": "Parks and Recreation - Policies and Fees Manual",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.nashville.gov/sites/default/files/2025-09/3-policies_fees_manual.pdf?ct=1758723862"
+      },
+      {
+        "value": 4.0,
+        "currency": "USD",
+        "raw_price_text": "$4",
+        "context": "eª©uóðxÈíªYe³Ê\u0016\u0013æ*it*\"¦Å=â11G|\u0006Î:¹êë¢\u0013ÊÐª]D·\u0016a-ìUÖ« |¡¤[pµH&u eÑaX-B«$4 bD|\u0001\\XP°D _PÃç¹ ;\u000fjÜÀ´ Þ BÅPÆ\u0002^§tzU¡<'¨ðä\\ÄµX` ©WI\u0019¸\u0016ë\u0015n\"ïkYûÂú@\u0006å¢;òË»",
+        "title": "Parks and Recreation - Policies and Fees Manual",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.nashville.gov/sites/default/files/2025-09/3-policies_fees_manual.pdf?ct=1758723862"
+      },
+      {
+        "value": 1.0,
+        "currency": "USD",
+        "raw_price_text": "$1",
+        "context": "`#a?êÀÁ²} %\u0016\u0005XMí\u0011°\"üG¢¬,\u0013Vý^ * ÷±\\( Êû|¢­=, áD\u0018h\u000e#BKÄ| \u0011\u0010¡\u000e\u0011@D­Ä<èÛo$1 óí$ô¨o¿ÝQbÅý°_x\u0016&u \u0015ª\u0000<FÔ\u0003¸/ú »¨_á>¼\u000e\u0012ê i>°Y{p\u0017\u0011í\u0006\"¶\u0013±MODë 8¸u@ ?ú\u001aîq\u0018q,",
+        "title": "Parks and Recreation - Policies and Fees Manual",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.nashville.gov/sites/default/files/2025-09/3-policies_fees_manual.pdf?ct=1758723862"
+      },
+      {
+        "value": 2.0,
+        "currency": "USD",
+        "raw_price_text": "$2",
+        "context": "PÖ,[°NL*\u0013®Ô ã\u0012¥o \u0013\"QX¼%-NOíÑXvÊ%§©R\u000e-åR(g¼¿¥íµAÌÅ\u0006ÊÎ%¹¸áX[UÚs\u0016­lu\u00185Ç\u0012$2M² uÇ\u0012:£îçy_C\u0002á\\ë6\u0015ß,¾ûä\u000f0\b^7T7¦0\bh\u001b§k(Ô!É; }}\båójÎÊ§ w¢»º4fK>oÏ=÷\u0001\u0015ÞF»BU\u0018\u0019\u0017",
+        "title": "Parks and Recreation - Policies and Fees Manual",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.nashville.gov/sites/default/files/2025-09/3-policies_fees_manual.pdf?ct=1758723862"
+      },
+      {
+        "value": 0.0,
+        "currency": "USD",
+        "raw_price_text": "$0",
+        "context": "4Ó|]:íDÇÄeÚtèÒê¨ª£·ÒÑÜ ¥¨TXeÅ.\u0006r(qåâ(¯ðV9Ê9 ^!±bÑRoÍÌºò\u0018»ÝîÅK ½àà w*$0QYÆ«èU+ËØVrq ÃÖ~´}«_\u000f\u001b!K K\u0017Í¯ó <|\b§w£Ü;©¥×îÇgæÔy5\u0013ý\bsêöÃà®ª åå ¾abÝæ",
+        "title": "Parks and Recreation - Policies and Fees Manual",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.nashville.gov/sites/default/files/2025-09/3-policies_fees_manual.pdf?ct=1758723862"
+      },
+      {
+        "value": 0.0,
+        "currency": "USD",
+        "raw_price_text": "$0",
+        "context": "­\u0016O Æ¶ÃøØx­°¾Ù¦¼Û÷i\\¶\u000fO×a[ >ÈNñ~vÊ §;°­\u0003m­¨oEhÅs­x¦\u0015ÛZñF? ô Ö\u001b÷ãÁàg>Á ôcY\u0015$0³ ïñ=)Y u?iÌ/ã£l\u001aØÁÊ1ßm7¿õ¶ 5ÃØ­³ j c}¨ñ1æ#è õYÈ\u0001ó`ÍmÎ1# \u0006é\u000e\u000edvCì oa;ðk|",
+        "title": "Parks and Recreation - Policies and Fees Manual",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.nashville.gov/sites/default/files/2025-09/3-policies_fees_manual.pdf?ct=1758723862"
+      },
+      {
+        "value": 3.0,
+        "currency": "USD",
+        "raw_price_text": "$3",
+        "context": "§ª÷µª·êîê½»zß¤n©%K²J²dK6^ÀF\u0005Â2^X ØØ,6`$b2\u0006\u0012bã\u0004øÀÍ\u0004'0\u0004°YÄb°@pæMï |\u0010âäC\u0013\u0002~$3XíwnuK!Ì{6½U\u001aùüçÿÿÏ½5Wkðªt½ ¹´¨ªèuã°MÎgVg!çÞQüõì6\u001bÊ¼XDÊÑææ¦¦®#=?iHÏíà",
+        "title": "Parks and Recreation - Policies and Fees Manual",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.nashville.gov/sites/default/files/2025-09/3-policies_fees_manual.pdf?ct=1758723862"
+      },
+      {
+        "value": 5.0,
+        "currency": "USD",
+        "raw_price_text": "$5",
+        "context": "l¬» í? ¥ \u0002¶õj©¯rx»XiÊò¸x\u0002HÇdM å ¤f ½ÌxNËÑY^QêàôNðþÎ¤(æ(\u00005°p%Ì\u0012ð¾Sÿe7CéÞd$5\"épL\u0019G=£j0êµZ8vF\u001a u~ÐJV#ï\u0002XÚ%è\u0014³ Ëý|µ*¯®\u0007¨Yahw$\\ÑY Ñq^¦e±%£Ü\u001b\u0005<t?ÍîÇ\u0011",
+        "title": "Parks and Recreation - Policies and Fees Manual",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.nashville.gov/sites/default/files/2025-09/3-policies_fees_manual.pdf?ct=1758723862"
+      },
+      {
+        "value": 3.0,
+        "currency": "USD",
+        "raw_price_text": "$3",
+        "context": "69/Filter/FlateDecode>>stream hÞ¬UMsÓ0\u0010½çWìÑa\u0012c;é\u0007ÜhÓaÊ ÐiÌp \u0014y «ØädòïYÉN\u0014Â$3­Õî¾·oµ¯ßÏcXÁE:x¦S!Í\u0007q\u0002\u0011ýèqFÿé4¤GZ \"X\u000eÆa\u0014EdÄ\u0007n1t=\bbZÁÅçw·3\u0018¦÷d6Ãøì\u0004Ò\u0019­É2òV",
+        "title": "Parks and Recreation - Policies and Fees Manual",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.nashville.gov/sites/default/files/2025-09/3-policies_fees_manual.pdf?ct=1758723862"
+      },
+      {
+        "value": 8.0,
+        "currency": "USD",
+        "raw_price_text": "$8",
+        "context": "ù+DÐ+NÓò ,®\\è «\u0007Ö£DÔµÊ«R@®ÕB vnrÄËsÁ÷´$oØ\u0018]ëR6BÁL¯UÎ²H)4 Z<?ûÔ9¬ r$8 <gHèÚÝ®ó ±` µÒ)kÓ£ð;]ÍÐ\u0013\u0006-D\u00168 ­£\u0003YùZ¹DpÊ\u001bÃé¿ÑàôÊ³R`^J \u0016\u001a \u0016Í\u0006AXæì@W\u000fÉ3",
+        "title": "Parks and Recreation - Policies and Fees Manual",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.nashville.gov/sites/default/files/2025-09/3-policies_fees_manual.pdf?ct=1758723862"
+      },
+      {
+        "value": 3.0,
+        "currency": "USD",
+        "raw_price_text": "$3",
+        "context": "áÖß\u00162|Ñ5+èí²\b\u001b¿¦¼òQ\u001b¶[±H¨ÁY:M¢ éð?E#îB®\u0019Îl 0×3C_ð|X(ëÚ¦ðYþ$£Â¤I?&1F)$3;äêAÙ;ê{¢>1\b Ú¨X ÇK¯<Tí\u0004ûèª\u001a` ÁQb\u0007H,qÍ­Eª/Ü âV8<8(0ä÷Áª G 0å`´VÆíãZg¶M\u0010",
+        "title": "Parks and Recreation - Policies and Fees Manual",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.nashville.gov/sites/default/files/2025-09/3-policies_fees_manual.pdf?ct=1758723862"
+      },
+      {
+        "value": 7.0,
+        "currency": "USD",
+        "raw_price_text": "$7",
+        "context": "À¯Ô,\u0014_Y\bG¶\u000e@þX©¹ò'Ü{ù²}Qs+ÖØàl7&Î$Å§fµ\u0002@?lV¦àMò°. ©±^FmÔq<[qh`÷:ÇÀ8\u00012ß\u0006$7þ4+\u0002# \u00121°R\\\\\bKY ` YTÛ -ÅìPº9VÂFº\b G²ÄÕ]ªà²\u0017ÈÆB(´z¦lV£A ëå²à¿£R&½(",
+        "title": "Parks and Recreation - Policies and Fees Manual",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.nashville.gov/sites/default/files/2025-09/3-policies_fees_manual.pdf?ct=1758723862"
+      },
+      {
+        "value": 2.0,
+        "currency": "USD",
+        "raw_price_text": "$2",
+        "context": "ã\bÃ ~ \u00168\u0000¹Ú MÉ\\2QÉjÿÚõp½6\bèQbÑ :³Z7YÑNAú`ÿv(æå8ì)«\u001aG¡ú½á{ßR`Ý]vEÁvâ(È\b©5×V$2\u001böb'\u0004ÃâÜb°Fº-2\b]¼·fþªý¬X(Þ£©Viëì þd\u001bçÀñº¹BÓõî»çáV ZËaQ8®\u0017év<Ñ·AQbk b'\u0015^/íéZ",
+        "title": "Parks and Recreation - Policies and Fees Manual",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.nashville.gov/sites/default/files/2025-09/3-policies_fees_manual.pdf?ct=1758723862"
+      },
+      {
+        "value": 4.0,
+        "currency": "USD",
+        "raw_price_text": "$4",
+        "context": "7ö]ë}©$°²,DÆPr\bºÎr(yµ\u0011\u0006v¢( å ´®ù\u0012jYp­;D÷Ut\u001bºM?ýê5®Øgoå¶\u0013X jÍa¥*Øå\u0002³19ßg$4hU¯óf§VÀúô³~&§ ¯e%¶Ìp@¬Lm6¼Ê\u0004+@2SWü-=ý\u0005®?òQô¢\u0014 E\u0015·GÄ\u001a5Ð¼àÁ\"#/© Ê K åÏ\u0018",
+        "title": "Parks and Recreation - Policies and Fees Manual",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.nashville.gov/sites/default/files/2025-09/3-policies_fees_manual.pdf?ct=1758723862"
+      },
+      {
+        "value": 7.0,
+        "currency": "USD",
+        "raw_price_text": "$7",
+        "context": "x^¤¥V\u0016£59çe+w½®*dàÀÔ; ¡)Ø¾Ê{º k¯\u0017êz^è¶\u001aÓÈ½Àa´(/\u0001÷}@¾Má\u0018hú} ÄaâÀí$ IÛóÁ=$7;à]¿kä\u000e%ø`ëa¥Û}·î·ý«&¯2qmRb\u0003ì©`ª\u0010\u0003K1ç%Þ+n«¬«C£öKcÆï0ØZ¥\u0015%\u0002Wº½¹ÓCÀ=TGFæoë",
+        "title": "Parks and Recreation - Policies and Fees Manual",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.nashville.gov/sites/default/files/2025-09/3-policies_fees_manual.pdf?ct=1758723862"
+      }
+    ],
+    "sources": [
+      "https://www.openstreetmap.org/node/8446199987",
+      "https://www.olympiawa.gov/services/parking_services/pay_or_appeal_tickets.php",
+      "https://www.revisor.mn.gov/statutes/cite/297a.70",
+      "https://www.nashville.gov/sites/default/files/2025-09/3-policies_fees_manual.pdf?ct=1758723862"
+    ]
+  },
+  "我从吉隆坡去首尔玩，一个人，2026.5.1到2026.5.4 old town::我从吉隆坡去首尔玩，一个人，2026.5.1到2026.5.4": {
+    "query_type": "attraction_info",
+    "name": "我从吉隆坡去首尔玩，一个人，2026.5.1到2026.5.4 Old Town",
+    "description": "",
+    "image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3798909501345887253",
+    "opening_hours": "",
+    "visit_duration": "2-3 hours (estimated)",
+    "ticket_price": "",
+    "ticket_status": "unknown",
+    "price_type": "unknown",
+    "price_note": "No attraction-specific ticket source found.",
+    "ticket_price_candidates": [],
+    "sources": []
+  },
+  "我从吉隆坡去首尔玩，一个人，2026.5.1到2026.5.4 city park::我从吉隆坡去首尔玩，一个人，2026.5.1到2026.5.4": {
+    "query_type": "attraction_info",
+    "name": "我从吉隆坡去首尔玩，一个人，2026.5.1到2026.5.4 City Park",
+    "description": "",
+    "image_url": "https://serpapi.com/searches/69c2550c9f0700453cdba38f/images/D3WFnMfXthJlFRhW_Fz6ON5DoDSdW_FKDI73VVIy3k4.png",
+    "opening_hours": "",
+    "visit_duration": "2-4 hours (estimated)",
+    "ticket_price": "RM 117.50–RM 3877.50",
+    "ticket_status": "paid",
+    "price_type": "range",
+    "price_note": "Range derived from multiple non-official sources",
+    "ticket_price_candidates": [
+      {
+        "value": 200.0,
+        "currency": "USD",
+        "raw_price_text": "$2,00",
+        "context": "者计划介绍【2026.3 更新：Global Entry 也恢复了】 E*Trade Premium Savings 银行账户【2026.3 更新：up to $2,000 开户奖励 已过期】 Barclays Wyndham Earner Plus 信用卡【2026.3 更新：75k 开卡奖励】 Barclays Wyndha",
+        "title": "所有文章列表- 美国信用卡指南",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": 10,
+        "score_reasons": [
+          "weak/non-official source",
+          "ticket/admission wording"
+        ],
+        "url": "https://www.uscreditcardguide.com/all-posts-list/"
+      },
+      {
+        "value": 25.0,
+        "currency": "USD",
+        "raw_price_text": "$25",
+        "context": "0%网课 F1学生将不得待在美国【7.14 更新：喜大普奔 此禁令被撤回了！】 当“五个一”遇到“航权对等” 苹果iPhone集体诉讼：每台受影响的设备可领大约$25！ 凝视总统府——南京圣和府邸豪华精选尊贵套房（Grand Suite）体验 非洲之星——埃塞俄比亚航空ET815 亚的斯亚贝巴ADD—乞力马扎罗JRO 商务舱",
+        "title": "所有文章列表- 美国信用卡指南",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -7,
+        "score_reasons": [
+          "weak/non-official source",
+          "structured pricing wording"
+        ],
+        "url": "https://www.uscreditcardguide.com/all-posts-list/"
+      },
+      {
+        "value": 3520.0,
+        "currency": "MYR",
+        "raw_price_text": "rm 3520",
+        "context": "lan Flight Reward Certificate Citi Shop Day: 8.5-8.6 在特定商户可得 20x Savings【已开始】 Form 3520迟交了怎么办? Reasonable Cause Statement也许有救 传奇再续：阔别八年的纽约华尔道夫酒店重开体验 IHG Destined 介绍：双人",
+        "title": "所有文章列表- 美国信用卡指南",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -10,
+        "score_reasons": [
+          "weak/non-official source"
+        ],
+        "url": "https://www.uscreditcardguide.com/all-posts-list/"
+      },
+      {
+        "value": 1099.0,
+        "currency": "MYR",
+        "raw_price_text": "rm 1099",
+        "context": "Bank 里程指南 情人节抽奖结果公布啦~ 聊一聊今年开年以来的惨剧吧&#8230; 抽奖啦！价值 $214 的浪漫情人节晚餐我们来买单！ 报税普及贴: Form 1099【2018.2 更新】 暑假烧分计划(一): 伦敦-纽约, Qatar &#038; Etihad A380 头等舱 第三期抽奖结果公布啦~ 祝大家春节快乐猴年",
+        "title": "所有文章列表- 美国信用卡指南",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -10,
+        "score_reasons": [
+          "weak/non-official source"
+        ],
+        "url": "https://www.uscreditcardguide.com/all-posts-list/"
+      },
+      {
+        "value": 400.0,
+        "currency": "USD",
+        "raw_price_text": "$400",
+        "context": "【2026.3 更新：TYP->Choice和I Prefer转点比例将降低】 Capital One 360 Checking 银行账户【2026.3 更新：$400 史高开户奖励！】 Amex Graphite Business 商业信用卡【新卡预告】 Marriott &#038; Uber 成为合作伙伴：Uber 消费",
+        "title": "所有文章列表- 美国信用卡指南",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -10,
+        "score_reasons": [
+          "weak/non-official source"
+        ],
+        "url": "https://www.uscreditcardguide.com/all-posts-list/"
+      },
+      {
+        "value": 250.0,
+        "currency": "USD",
+        "raw_price_text": "$250",
+        "context": "5%季度返现卡激活提醒【2026.3 更新：来激活2026 Q2啦！】 Chase Freedom Unlimited (CFU) 信用卡【2026.3 更新：$250 开卡奖励】 AmEx Marriott 系列信用卡可Churn链接 (No Lifetime Language (NLL))【2026.3 更新：Brilli",
+        "title": "所有文章列表- 美国信用卡指南",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -10,
+        "score_reasons": [
+          "weak/non-official source"
+        ],
+        "url": "https://www.uscreditcardguide.com/all-posts-list/"
+      },
+      {
+        "value": 150.0,
+        "currency": "USD",
+        "raw_price_text": "$1,50",
+        "context": "er 信用卡【2026.3 更新：60k 开卡奖励】 Marcus by Goldman Sachs Savings 银行账户【2026.3 更新：Up To $1,500 充值奖励 已过期】 Hyatt Ziva Cap Cana 酒店评测 BoA Customized Cash Rewards Business 商业信用卡【",
+        "title": "所有文章列表- 美国信用卡指南",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -10,
+        "score_reasons": [
+          "weak/non-official source"
+        ],
+        "url": "https://www.uscreditcardguide.com/all-posts-list/"
+      },
+      {
+        "value": 500.0,
+        "currency": "USD",
+        "raw_price_text": "$500",
+        "context": "】 Hyatt Ziva Cap Cana 酒店评测 BoA Customized Cash Rewards Business 商业信用卡【2026.3 更新：$500 开卡奖励】 BoA Unlimited Cash Rewards Business 商业信用卡【2026.3 更新：$500 开卡奖励】 BoA Travel",
+        "title": "所有文章列表- 美国信用卡指南",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -10,
+        "score_reasons": [
+          "weak/non-official source"
+        ],
+        "url": "https://www.uscreditcardguide.com/all-posts-list/"
+      },
+      {
+        "value": 500.0,
+        "currency": "USD",
+        "raw_price_text": "$500",
+        "context": "商业信用卡【2026.3 更新：$500 开卡奖励】 BoA Unlimited Cash Rewards Business 商业信用卡【2026.3 更新：$500 开卡奖励】 BoA Travel Rewards Business 商业信用卡【2026.3 更新：$500 开卡奖励】 Marriott STARS &#0",
+        "title": "所有文章列表- 美国信用卡指南",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -10,
+        "score_reasons": [
+          "weak/non-official source"
+        ],
+        "url": "https://www.uscreditcardguide.com/all-posts-list/"
+      },
+      {
+        "value": 500.0,
+        "currency": "USD",
+        "raw_price_text": "$500",
+        "context": "Business 商业信用卡【2026.3 更新：$500 开卡奖励】 BoA Travel Rewards Business 商业信用卡【2026.3 更新：$500 开卡奖励】 Marriott STARS &#038; LUMINOUS 详细介绍：双人早餐，$100消费额度，房型升级等福利【2026.3：更新当前促销列表",
+        "title": "所有文章列表- 美国信用卡指南",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -10,
+        "score_reasons": [
+          "weak/non-official source"
+        ],
+        "url": "https://www.uscreditcardguide.com/all-posts-list/"
+      },
+      {
+        "value": 100.0,
+        "currency": "USD",
+        "raw_price_text": "$100",
+        "context": "ds Business 商业信用卡【2026.3 更新：$500 开卡奖励】 Marriott STARS &#038; LUMINOUS 详细介绍：双人早餐，$100消费额度，房型升级等福利【2026.3：更新当前促销列表，MGM酒店现在可直接添加万豪会员号】 Chase Aeroplan (AC) 信用卡【2026.3 更",
+        "title": "所有文章列表- 美国信用卡指南",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -10,
+        "score_reasons": [
+          "weak/non-official source"
+        ],
+        "url": "https://www.uscreditcardguide.com/all-posts-list/"
+      },
+      {
+        "value": 695.0,
+        "currency": "USD",
+        "raw_price_text": "$695",
+        "context": "iness AAdvantage Platinum 商业信用卡【2026.3 更新：75k 开卡奖励】 Robinhood Platinum 信用卡：新卡发布，$695年费的Coupon Book 赚里程啦！里程 Portals 购物促销汇总【2026.3 更新：WN Bonus】 Wells Fargo Business C",
+        "title": "所有文章列表- 美国信用卡指南",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -10,
+        "score_reasons": [
+          "weak/non-official source"
+        ],
+        "url": "https://www.uscreditcardguide.com/all-posts-list/"
+      },
+      {
+        "value": 825.0,
+        "currency": "USD",
+        "raw_price_text": "$825",
+        "context": "rtals 购物促销汇总【2026.3 更新：WN Bonus】 Wells Fargo Business Checking 商业银行账户【2026.3 更新：$825/$400 开户奖励】 Chase Marriott Bonvoy Boundless 信用卡【2026.3 更新：4FN 开卡奖励】 Capital One",
+        "title": "所有文章列表- 美国信用卡指南",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -10,
+        "score_reasons": [
+          "weak/non-official source"
+        ],
+        "url": "https://www.uscreditcardguide.com/all-posts-list/"
+      },
+      {
+        "value": 400.0,
+        "currency": "USD",
+        "raw_price_text": "$400",
+        "context": "购物促销汇总【2026.3 更新：WN Bonus】 Wells Fargo Business Checking 商业银行账户【2026.3 更新：$825/$400 开户奖励】 Chase Marriott Bonvoy Boundless 信用卡【2026.3 更新：4FN 开卡奖励】 Capital One Busin",
+        "title": "所有文章列表- 美国信用卡指南",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -10,
+        "score_reasons": [
+          "weak/non-official source"
+        ],
+        "url": "https://www.uscreditcardguide.com/all-posts-list/"
+      },
+      {
+        "value": 500.0,
+        "currency": "USD",
+        "raw_price_text": "$500",
+        "context": "oundless 信用卡【2026.3 更新：4FN 开卡奖励】 Capital One Business Checking 商业银行账户【2026.3 更新：$500 开户奖励】 Bilt Rent Day 活动【2026.3 更新：Japan Airlines (JL) 25%-125% 转点 Bonus！】 Wings",
+        "title": "所有文章列表- 美国信用卡指南",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -10,
+        "score_reasons": [
+          "weak/non-official source"
+        ],
+        "url": "https://www.uscreditcardguide.com/all-posts-list/"
+      },
+      {
+        "value": 100.0,
+        "currency": "USD",
+        "raw_price_text": "$100",
+        "context": "hip Rewards (MR) 介绍二：点数使用【2026.3 更新：转CX比例降低为1:0.8已生效】 Hilton for Luxury 介绍：双人早餐，$100消费额度，双倍积分等福利【2026.2：更新当前促销列表】 AmEx Hilton Aspire 信用卡【2026.2 更新：175k 开卡奖励】 AmEx H",
+        "title": "所有文章列表- 美国信用卡指南",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -10,
+        "score_reasons": [
+          "weak/non-official source"
+        ],
+        "url": "https://www.uscreditcardguide.com/all-posts-list/"
+      },
+      {
+        "value": 300.0,
+        "currency": "USD",
+        "raw_price_text": "$300",
+        "context": "ness 商业信用卡【2026.2 更新：85k 开卡奖励】 皇家加勒比大船行程汇总2026版 KeyBank Checking 银行账户【2026.2 更新：$300/$500 开户奖励】【仅限 AK, CO, CT, ID, IN, ME, MA, MI, NY, OH, OR, PA, UT, VT, WA】 Truis",
+        "title": "所有文章列表- 美国信用卡指南",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -10,
+        "score_reasons": [
+          "weak/non-official source"
+        ],
+        "url": "https://www.uscreditcardguide.com/all-posts-list/"
+      },
+      {
+        "value": 500.0,
+        "currency": "USD",
+        "raw_price_text": "$500",
+        "context": "商业信用卡【2026.2 更新：85k 开卡奖励】 皇家加勒比大船行程汇总2026版 KeyBank Checking 银行账户【2026.2 更新：$300/$500 开户奖励】【仅限 AK, CO, CT, ID, IN, ME, MA, MI, NY, OH, OR, PA, UT, VT, WA】 Truist Che",
+        "title": "所有文章列表- 美国信用卡指南",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -10,
+        "score_reasons": [
+          "weak/non-official source"
+        ],
+        "url": "https://www.uscreditcardguide.com/all-posts-list/"
+      },
+      {
+        "value": 400.0,
+        "currency": "USD",
+        "raw_price_text": "$400",
+        "context": "ID, IN, ME, MA, MI, NY, OH, OR, PA, UT, VT, WA】 Truist Checking 银行账户【2026.2 更新：$400 开户奖励】【仅限 AL, AR, GA, FL, IN, KY, MD, MS, NC, NJ, OH, PA, SC, TN, TX, VA, WV or",
+        "title": "所有文章列表- 美国信用卡指南",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -10,
+        "score_reasons": [
+          "weak/non-official source"
+        ],
+        "url": "https://www.uscreditcardguide.com/all-posts-list/"
+      },
+      {
+        "value": 795.0,
+        "currency": "USD",
+        "raw_price_text": "$795",
+        "context": ", SC, TN, TX, VA, WV or DC】 【FAKE NEWS】World of Hyatt 变动：兑换表新增9级和10级，FN券可加点兑换，新的$795年费联名卡 美联航UA MileagePlus累积比例重大更新 Wells Fargo Premier Autograph 信用卡【新卡发布，100k 开卡奖励",
+        "title": "所有文章列表- 美国信用卡指南",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -10,
+        "score_reasons": [
+          "weak/non-official source"
+        ],
+        "url": "https://www.uscreditcardguide.com/all-posts-list/"
+      }
+    ],
+    "sources": [
+      "https://www.uscreditcardguide.com/all-posts-list/"
+    ]
+  },
+  "from kl to seoul,one person.from 2026 may 1 to 2026 may 4 old town::from kl to seoul,one person.from 2026 may 1 to 2026 may 4": {
+    "query_type": "attraction_info",
+    "name": "From KL to Seoul,one person.From 2026 May 1 to 2026 May 4 Old Town",
+    "description": "",
+    "image_url": "https://serpapi.com/searches/69c2575b3d870188f2b076e4/images/f2zSC7u2hwJH72Y1yDj0BVVTmuE7TOILvUefoCtYMx0.png",
+    "opening_hours": "",
+    "visit_duration": "48 hours",
+    "ticket_price": "",
+    "ticket_status": "unknown",
+    "price_type": "unknown",
+    "price_note": "Official price not found.",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://www.facebook.com/official.seasia/posts/airasia-x-will-resume-direct-flights-between-kuala-lumpur-and-busan-starting-jun/1487222680070080/",
+      "https://www.tripadvisor.com/AttractionProductReview-g294197-d26672527-Night_Flexible_Private_Guided_Tour_in_Seoul_Optional_Layover-Seoul.html",
+      "https://www.tripadvisor.com/AttractionProductReview-g294197-d17685936-Andong_Hahoe_Village_UNESCO_site_Premium_Private_Tour_from_Seoul-Seoul.html"
+    ]
+  },
+  "from kl to seoul,one person.from 2026 may 1 to 2026 may 4 city park::from kl to seoul,one person.from 2026 may 1 to 2026 may 4": {
+    "query_type": "attraction_info",
+    "name": "From KL to Seoul,one person.From 2026 May 1 to 2026 May 4 City Park",
+    "description": "",
+    "image_url": "https://serpapi.com/searches/69c25780529e4bc14b4323b3/images/HbNV6eXfC_xCeZ-MtXxVzEMJPtO6iMH27Ufy7jnX6D0.png",
+    "opening_hours": "",
+    "visit_duration": "4 hours",
+    "ticket_price": "RM 4.18–RM 4620.10",
+    "ticket_status": "paid",
+    "price_type": "range",
+    "price_note": "Parsed from ticket-related source content (20 candidates reviewed)",
+    "ticket_price_candidates": [
+      {
+        "value": 117.0,
+        "currency": "USD",
+        "raw_price_text": "$117",
+        "context": "rean Air(KE) flights from Kuala Lumpur to Seoul Cheapest one-way flight price US$117 Cheapest return ticket price US$194 Cheapest month September Peak season for tr",
+        "title": "Korean Air(KE) flights from Kuala Lumpur to Seoul- ...",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 35,
+        "score_reasons": [
+          "platform source",
+          "ticket/admission wording"
+        ],
+        "url": "https://www.trip.com/hot/korean-air%28ke%29-flights-from-kuala-lumpur-to-seoul/"
+      },
+      {
+        "value": 194.0,
+        "currency": "USD",
+        "raw_price_text": "$194",
+        "context": "ur to Seoul Cheapest one-way flight price US$117 Cheapest return ticket price US$194 Cheapest month September Peak season for travel January Flight distance 4,607.3",
+        "title": "Korean Air(KE) flights from Kuala Lumpur to Seoul- ...",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 35,
+        "score_reasons": [
+          "platform source",
+          "ticket/admission wording"
+        ],
+        "url": "https://www.trip.com/hot/korean-air%28ke%29-flights-from-kuala-lumpur-to-seoul/"
+      },
+      {
+        "value": 0.89,
+        "currency": "USD",
+        "raw_price_text": "$0.89",
+        "context": "ansportation Card South Korea eSIM: Unlimited 4G/5G High Speed Data from only US$0.89 🎁Trip.com Special Deals for Seoul Travel Flights &amp; Hotels Deals: Up to 50%",
+        "title": "Korean Air(KE) flights from Kuala Lumpur to Seoul- ...",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 15,
+        "score_reasons": [
+          "platform source"
+        ],
+        "url": "https://www.trip.com/hot/korean-air%28ke%29-flights-from-kuala-lumpur-to-seoul/"
+      },
+      {
+        "value": 331.0,
+        "currency": "USD",
+        "raw_price_text": "$331",
+        "context": "3:20 6h 40m Nonstop ICN 07:00 Kuala Lumpur - Seoul | Sun, Apr 19 | Korean Air US$331 US$1,214 73% off Search 73% off US$1,214 US$331 KUL 23:20 6h 40m Nonstop ICN 07",
+        "title": "Korean Air(KE) flights from Kuala Lumpur to Seoul- ...",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 15,
+        "score_reasons": [
+          "platform source"
+        ],
+        "url": "https://www.trip.com/hot/korean-air%28ke%29-flights-from-kuala-lumpur-to-seoul/"
+      },
+      {
+        "value": 121.0,
+        "currency": "USD",
+        "raw_price_text": "$1,21",
+        "context": "40m Nonstop ICN 07:00 Kuala Lumpur - Seoul | Sun, Apr 19 | Korean Air US$331 US$1,214 73% off Search 73% off US$1,214 US$331 KUL 23:20 6h 40m Nonstop ICN 07:00 Kual",
+        "title": "Korean Air(KE) flights from Kuala Lumpur to Seoul- ...",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 15,
+        "score_reasons": [
+          "platform source"
+        ],
+        "url": "https://www.trip.com/hot/korean-air%28ke%29-flights-from-kuala-lumpur-to-seoul/"
+      },
+      {
+        "value": 121.0,
+        "currency": "USD",
+        "raw_price_text": "$1,21",
+        "context": "pur - Seoul | Sun, Apr 19 | Korean Air US$331 US$1,214 73% off Search 73% off US$1,214 US$331 KUL 23:20 6h 40m Nonstop ICN 07:00 Kuala Lumpur - Seoul | Mon, Apr 20 |",
+        "title": "Korean Air(KE) flights from Kuala Lumpur to Seoul- ...",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 15,
+        "score_reasons": [
+          "platform source"
+        ],
+        "url": "https://www.trip.com/hot/korean-air%28ke%29-flights-from-kuala-lumpur-to-seoul/"
+      },
+      {
+        "value": 331.0,
+        "currency": "USD",
+        "raw_price_text": "$331",
+        "context": "ul | Sun, Apr 19 | Korean Air US$331 US$1,214 73% off Search 73% off US$1,214 US$331 KUL 23:20 6h 40m Nonstop ICN 07:00 Kuala Lumpur - Seoul | Mon, Apr 20 | Korean",
+        "title": "Korean Air(KE) flights from Kuala Lumpur to Seoul- ...",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 15,
+        "score_reasons": [
+          "platform source"
+        ],
+        "url": "https://www.trip.com/hot/korean-air%28ke%29-flights-from-kuala-lumpur-to-seoul/"
+      },
+      {
+        "value": 331.0,
+        "currency": "USD",
+        "raw_price_text": "$331",
+        "context": "3:20 6h 40m Nonstop ICN 07:00 Kuala Lumpur - Seoul | Mon, Apr 20 | Korean Air US$331 US$1,214 73% off Search 73% off US$1,214 US$331 KUL 23:20 6h 40m Nonstop ICN 07",
+        "title": "Korean Air(KE) flights from Kuala Lumpur to Seoul- ...",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 15,
+        "score_reasons": [
+          "platform source"
+        ],
+        "url": "https://www.trip.com/hot/korean-air%28ke%29-flights-from-kuala-lumpur-to-seoul/"
+      },
+      {
+        "value": 121.0,
+        "currency": "USD",
+        "raw_price_text": "$1,21",
+        "context": "40m Nonstop ICN 07:00 Kuala Lumpur - Seoul | Mon, Apr 20 | Korean Air US$331 US$1,214 73% off Search 73% off US$1,214 US$331 KUL 23:20 6h 40m Nonstop ICN 07:00 Kual",
+        "title": "Korean Air(KE) flights from Kuala Lumpur to Seoul- ...",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 15,
+        "score_reasons": [
+          "platform source"
+        ],
+        "url": "https://www.trip.com/hot/korean-air%28ke%29-flights-from-kuala-lumpur-to-seoul/"
+      },
+      {
+        "value": 121.0,
+        "currency": "USD",
+        "raw_price_text": "$1,21",
+        "context": "pur - Seoul | Mon, Apr 20 | Korean Air US$331 US$1,214 73% off Search 73% off US$1,214 US$331 KUL 23:20 6h 40m Nonstop ICN 07:00 Kuala Lumpur - Seoul | Thu, Apr 16 |",
+        "title": "Korean Air(KE) flights from Kuala Lumpur to Seoul- ...",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 15,
+        "score_reasons": [
+          "platform source"
+        ],
+        "url": "https://www.trip.com/hot/korean-air%28ke%29-flights-from-kuala-lumpur-to-seoul/"
+      },
+      {
+        "value": 331.0,
+        "currency": "USD",
+        "raw_price_text": "$331",
+        "context": "ul | Mon, Apr 20 | Korean Air US$331 US$1,214 73% off Search 73% off US$1,214 US$331 KUL 23:20 6h 40m Nonstop ICN 07:00 Kuala Lumpur - Seoul | Thu, Apr 16 | Korean",
+        "title": "Korean Air(KE) flights from Kuala Lumpur to Seoul- ...",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 15,
+        "score_reasons": [
+          "platform source"
+        ],
+        "url": "https://www.trip.com/hot/korean-air%28ke%29-flights-from-kuala-lumpur-to-seoul/"
+      },
+      {
+        "value": 331.0,
+        "currency": "USD",
+        "raw_price_text": "$331",
+        "context": "3:20 6h 40m Nonstop ICN 07:00 Kuala Lumpur - Seoul | Thu, Apr 16 | Korean Air US$331 US$1,214 73% off Search 73% off US$1,214 US$331 KUL 23:20 6h 40m Nonstop ICN 07",
+        "title": "Korean Air(KE) flights from Kuala Lumpur to Seoul- ...",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 15,
+        "score_reasons": [
+          "platform source"
+        ],
+        "url": "https://www.trip.com/hot/korean-air%28ke%29-flights-from-kuala-lumpur-to-seoul/"
+      },
+      {
+        "value": 121.0,
+        "currency": "USD",
+        "raw_price_text": "$1,21",
+        "context": "40m Nonstop ICN 07:00 Kuala Lumpur - Seoul | Thu, Apr 16 | Korean Air US$331 US$1,214 73% off Search 73% off US$1,214 US$331 KUL 23:20 6h 40m Nonstop ICN 07:00 Kual",
+        "title": "Korean Air(KE) flights from Kuala Lumpur to Seoul- ...",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 15,
+        "score_reasons": [
+          "platform source"
+        ],
+        "url": "https://www.trip.com/hot/korean-air%28ke%29-flights-from-kuala-lumpur-to-seoul/"
+      },
+      {
+        "value": 121.0,
+        "currency": "USD",
+        "raw_price_text": "$1,21",
+        "context": "pur - Seoul | Thu, Apr 16 | Korean Air US$331 US$1,214 73% off Search 73% off US$1,214 US$331 KUL 23:20 6h 40m Nonstop ICN 07:00 Kuala Lumpur - Seoul | Tue, Apr 21 |",
+        "title": "Korean Air(KE) flights from Kuala Lumpur to Seoul- ...",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 15,
+        "score_reasons": [
+          "platform source"
+        ],
+        "url": "https://www.trip.com/hot/korean-air%28ke%29-flights-from-kuala-lumpur-to-seoul/"
+      },
+      {
+        "value": 331.0,
+        "currency": "USD",
+        "raw_price_text": "$331",
+        "context": "ul | Thu, Apr 16 | Korean Air US$331 US$1,214 73% off Search 73% off US$1,214 US$331 KUL 23:20 6h 40m Nonstop ICN 07:00 Kuala Lumpur - Seoul | Tue, Apr 21 | Korean",
+        "title": "Korean Air(KE) flights from Kuala Lumpur to Seoul- ...",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 15,
+        "score_reasons": [
+          "platform source"
+        ],
+        "url": "https://www.trip.com/hot/korean-air%28ke%29-flights-from-kuala-lumpur-to-seoul/"
+      },
+      {
+        "value": 343.0,
+        "currency": "USD",
+        "raw_price_text": "$343",
+        "context": "3:20 6h 40m Nonstop ICN 07:00 Kuala Lumpur - Seoul | Tue, Apr 21 | Korean Air US$343 Search US$343 KUL 23:20 6h 40m Nonstop ICN 07:00 Kuala Lumpur - Seoul | Sat, Ap",
+        "title": "Korean Air(KE) flights from Kuala Lumpur to Seoul- ...",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 15,
+        "score_reasons": [
+          "platform source"
+        ],
+        "url": "https://www.trip.com/hot/korean-air%28ke%29-flights-from-kuala-lumpur-to-seoul/"
+      },
+      {
+        "value": 343.0,
+        "currency": "USD",
+        "raw_price_text": "$343",
+        "context": "nstop ICN 07:00 Kuala Lumpur - Seoul | Tue, Apr 21 | Korean Air US$343 Search US$343 KUL 23:20 6h 40m Nonstop ICN 07:00 Kuala Lumpur - Seoul | Sat, Apr 18 | Korean",
+        "title": "Korean Air(KE) flights from Kuala Lumpur to Seoul- ...",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 15,
+        "score_reasons": [
+          "platform source"
+        ],
+        "url": "https://www.trip.com/hot/korean-air%28ke%29-flights-from-kuala-lumpur-to-seoul/"
+      },
+      {
+        "value": 344.0,
+        "currency": "USD",
+        "raw_price_text": "$344",
+        "context": "3:20 6h 40m Nonstop ICN 07:00 Kuala Lumpur - Seoul | Sat, Apr 18 | Korean Air US$344 Search US$344 KUL 23:20 6h 40m Nonstop ICN 07:00 Kuala Lumpur - Seoul | Thu, Ap",
+        "title": "Korean Air(KE) flights from Kuala Lumpur to Seoul- ...",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 15,
+        "score_reasons": [
+          "platform source"
+        ],
+        "url": "https://www.trip.com/hot/korean-air%28ke%29-flights-from-kuala-lumpur-to-seoul/"
+      },
+      {
+        "value": 344.0,
+        "currency": "USD",
+        "raw_price_text": "$344",
+        "context": "nstop ICN 07:00 Kuala Lumpur - Seoul | Sat, Apr 18 | Korean Air US$344 Search US$344 KUL 23:20 6h 40m Nonstop ICN 07:00 Kuala Lumpur - Seoul | Thu, Apr 23 | Korean",
+        "title": "Korean Air(KE) flights from Kuala Lumpur to Seoul- ...",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 15,
+        "score_reasons": [
+          "platform source"
+        ],
+        "url": "https://www.trip.com/hot/korean-air%28ke%29-flights-from-kuala-lumpur-to-seoul/"
+      },
+      {
+        "value": 369.0,
+        "currency": "USD",
+        "raw_price_text": "$369",
+        "context": "3:20 6h 40m Nonstop ICN 07:00 Kuala Lumpur - Seoul | Thu, Apr 23 | Korean Air US$369 Search US$369 KUL 23:20 6h 40m Nonstop ICN 07:00 Kuala Lumpur - Seoul | Sun, Ap",
+        "title": "Korean Air(KE) flights from Kuala Lumpur to Seoul- ...",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 15,
+        "score_reasons": [
+          "platform source"
+        ],
+        "url": "https://www.trip.com/hot/korean-air%28ke%29-flights-from-kuala-lumpur-to-seoul/"
+      }
+    ],
+    "sources": [
+      "https://www.tripadvisor.com/AttractionProductReview-g298570-d19147587-Kuala_Lumpur_by_Night_Cultural_Sights_City_Lights_Local_Vibes-Kuala_Lumpur_Wilayah.html",
+      "https://www.trip.com/hot/korean-air%28ke%29-flights-from-kuala-lumpur-to-seoul/",
+      "https://www.koreanair.com/flights/en/flights-from-kuala-lumpur-to-seoul"
+    ]
+  },
+  "seoul old town::seoul": {
+    "query_type": "attraction_info",
+    "name": "Seoul Old Town",
+    "description": "",
+    "image_url": "https://serpapi.com/searches/69c25c6d792d6839e3058a22/images/DOSDs8355t4lnp8SYEfy3jSZVXiQWOfAA45Dg668erQ.png",
+    "opening_hours": "10 am to 6 pm",
+    "visit_duration": "24 hours",
+    "ticket_price": "RM 0–RM 84.18",
+    "ticket_status": "paid",
+    "price_type": "range",
+    "price_note": "Parsed from ticket-related source content (1 candidates reviewed)",
+    "ticket_price_candidates": [
+      {
+        "value": 0.0,
+        "currency": "USD",
+        "raw_price_text": "$ 0",
+        "context": "on Data Protection in the General Terms and Conditions . Help Shopping basket US$ 0 View shopping cart Your shopping basket is empty Our destinations Civitatis Mag",
+        "title": "N Seoul Tower | Official Tickets - Book Online at Civitatis.com",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.civitatis.com/en/seoul/seoul-tower-ticket/?srsltid=AfmBOop0w7VHFpXi-ZoqGNt-RGA3QpK51iOgcBrTMpuDAA3byQoUokdJ"
+      }
+    ],
+    "sources": [
+      "https://www.civitatis.com/en/seoul/seoul-tower-ticket/?srsltid=AfmBOop0w7VHFpXi-ZoqGNt-RGA3QpK51iOgcBrTMpuDAA3byQoUokdJ",
+      "https://en.seoulcitybus.com/reservation/reservation.php",
+      "https://english.visitseoul.net/citytourbus"
+    ]
+  },
+  "seoul city park::seoul": {
+    "query_type": "attraction_info",
+    "name": "서울광장",
+    "description": "square in Seoul, South Korea",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%EC%84%9C%EC%9A%B8%EA%B4%91%EC%9E%A5%20%EC%A0%84%EA%B2%BD.JPG",
+    "opening_hours": "",
+    "visit_duration": "24 hours",
+    "ticket_price": "Free",
+    "ticket_status": "free",
+    "price_type": "exact",
+    "price_note": "Parsed from ticket-related source content (0 candidates reviewed)",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://www.openstreetmap.org/way/370019676",
+      "https://en.seoulcitybus.com/",
+      "https://english.visitseoul.net/tour-pass",
+      "https://english.visitseoul.net/"
+    ]
+  },
+  "the grand palace::bangkok": {
+    "query_type": "attraction_info",
+    "name": "The Grand Palace",
+    "description": "The Grand Palace is a complex of buildings at the heart of Bangkok, Thailand. The palace has been the official residence of the Kings of Siam since 1782. The king, his court, and his royal government were based on the grounds of the palace until 1925. King Bhumibol Adulyadej, resided at the Chitralada Royal Villa and his successor King Vajiralongkorn resides at the Amphorn Sathan Residential Hall, both in the Dusit Palace, but the Grand Palace is still used for official events. Several royal ceremonies and state functions are held within the walls of the palace every year. The palace is one of the most popular tourist attractions in Thailand, with over eight million people visiting each year.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/0005574_-_Wat_Phra_Kaew_006.jpg/330px-0005574_-_Wat_Phra_Kaew_006.jpg",
+    "opening_hours": "",
+    "visit_duration": "15 minutes",
+    "ticket_price": "Free",
+    "ticket_status": "free",
+    "price_type": "exact",
+    "price_note": "Parsed from ticket-related source content (0 candidates reviewed)",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Grand_Palace",
+      "https://www.openstreetmap.org/way/23482754",
+      "https://www.tripadvisor.com/FAQ_Answers-g293916-d317603-t6643939-Can_I_actually_purchase_the_entrance_ticket.html",
+      "https://www.makemytrip.com/tripideas/attractions/grand-palace"
+    ]
+  },
+  "wat pho::bangkok": {
+    "query_type": "attraction_info",
+    "name": "วัดพระเชตุพนวิมลมังคลารามราชวรมหาวิหาร",
+    "description": "Buddhist temple in central Bangkok, Thailand",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Outside%20wall%20Wat%20Pho.jpg",
+    "opening_hours": "08:00-18:30",
+    "visit_duration": "24 hours",
+    "ticket_price": "",
+    "ticket_status": "unknown",
+    "price_type": "unknown",
+    "price_note": "Tickets are required and are cash only.",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://www.openstreetmap.org/relation/11169995",
+      "https://www.watpho.com",
+      "https://www.instagram.com/reel/DQ1S475DjLg/",
+      "https://en.wikipedia.org/wiki/Wat_Pho",
+      "https://www.tripadvisor.com/Attraction_Review-g293916-d33229338-Reviews-Wat_Pho_Temple_Of_The_Reclining_Buddha-Bangkok.html"
+    ]
+  },
+  "wat arun::bangkok": {
+    "query_type": "attraction_info",
+    "name": "วัดอรุณ",
+    "description": "Buddhist temple in central Bangkok, Thailand",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Category%3AWat%20Arun",
+    "opening_hours": "Mo-Su 08:30-18:00",
+    "visit_duration": "8-18 hours",
+    "ticket_price": "RM 38.61–RM 94.12",
+    "ticket_status": "paid",
+    "price_type": "range",
+    "price_note": "Conflicting official/government prices",
+    "ticket_price_candidates": [
+      {
+        "value": 675.0,
+        "currency": "THB",
+        "raw_price_text": "THB6,75",
+        "context": "kok provide one of the most luxurious accommodations in the city. See more From THB6,754 Check availability title_rooms subtitle_rooms paragraph_rooms Studio The Studi",
+        "title": "Hotel Riva Arun Bangkok | Official Website",
+        "source": "official_homepage",
+        "source_type": "official_homepage",
+        "source_bucket": "official",
+        "score": 15,
+        "score_reasons": [
+          "official/government source",
+          "uncertain starting price wording"
+        ],
+        "url": "https://www.rivaarunbangkok.com/en/"
+      },
+      {
+        "value": 297.0,
+        "currency": "THB",
+        "raw_price_text": "THB2,97",
+        "context": "sits above the old town streets. A room designed with a focus on comfort. From THB2,974 taxes not included. Book now See more Superior Offering partial views of the C",
+        "title": "Hotel Riva Arun Bangkok | Official Website",
+        "source": "official_homepage",
+        "source_type": "official_homepage",
+        "source_bucket": "official",
+        "score": 15,
+        "score_reasons": [
+          "official/government source",
+          "uncertain starting price wording"
+        ],
+        "url": "https://www.rivaarunbangkok.com/en/"
+      },
+      {
+        "value": 300.0,
+        "currency": "THB",
+        "raw_price_text": "THB3,00",
+        "context": "Superior Rooms at Riva Arun Bangkok overlook the neighboring side street. From THB3,008 taxes not included. Book now See more Deluxe A floor plan offering between 25",
+        "title": "Hotel Riva Arun Bangkok | Official Website",
+        "source": "official_homepage",
+        "source_type": "official_homepage",
+        "source_bucket": "official",
+        "score": 15,
+        "score_reasons": [
+          "official/government source",
+          "uncertain starting price wording"
+        ],
+        "url": "https://www.rivaarunbangkok.com/en/"
+      },
+      {
+        "value": 445.0,
+        "currency": "THB",
+        "raw_price_text": "THB4,45",
+        "context": "he Chao Phraya River when entering the Deluxe Rooms at Riva Arun Bangkok . From THB4,450 taxes not included. Book now See more Grand Deluxe The 50 sqm Grand Deluxe Roo",
+        "title": "Hotel Riva Arun Bangkok | Official Website",
+        "source": "official_homepage",
+        "source_type": "official_homepage",
+        "source_bucket": "official",
+        "score": 15,
+        "score_reasons": [
+          "official/government source",
+          "uncertain starting price wording"
+        ],
+        "url": "https://www.rivaarunbangkok.com/en/"
+      },
+      {
+        "value": 572.0,
+        "currency": "THB",
+        "raw_price_text": "THB5,72",
+        "context": "Arun Bangkok provides a luxurious oasis overlooking the Chao Praya River. From THB5,721 taxes not included. Book now See more Premium Jacuzzi Suite The largest and mo",
+        "title": "Hotel Riva Arun Bangkok | Official Website",
+        "source": "official_homepage",
+        "source_type": "official_homepage",
+        "source_bucket": "official",
+        "score": 15,
+        "score_reasons": [
+          "official/government source",
+          "uncertain starting price wording"
+        ],
+        "url": "https://www.rivaarunbangkok.com/en/"
+      },
+      {
+        "value": 724.0,
+        "currency": "THB",
+        "raw_price_text": "THB7,24",
+        "context": "acuzzi Suites at Riva Arun Bangkok offer 73 sqm of exclusivity and luxury. From THB7,245 taxes not included. Book now See more Enjoy our unique experiences Highlights_",
+        "title": "Hotel Riva Arun Bangkok | Official Website",
+        "source": "official_homepage",
+        "source_type": "official_homepage",
+        "source_bucket": "official",
+        "score": 15,
+        "score_reasons": [
+          "official/government source",
+          "uncertain starting price wording"
+        ],
+        "url": "https://www.rivaarunbangkok.com/en/"
+      },
+      {
+        "value": 675.0,
+        "currency": "THB",
+        "raw_price_text": "From THB6,75",
+        "context": "Bangkok provide one of the most luxurious accommodations in the city. See more From THB6,754 Check availability title_rooms subtitle_rooms paragraph_rooms Studio The Studi",
+        "title": "Hotel Riva Arun Bangkok | Official Website",
+        "source": "official_homepage",
+        "source_type": "official_homepage",
+        "source_bucket": "official",
+        "score": 15,
+        "score_reasons": [
+          "official/government source",
+          "uncertain starting price wording"
+        ],
+        "url": "https://www.rivaarunbangkok.com/en/"
+      },
+      {
+        "value": 297.0,
+        "currency": "THB",
+        "raw_price_text": "From THB2,97",
+        "context": "that sits above the old town streets. A room designed with a focus on comfort. From THB2,974 taxes not included. Book now See more Superior Offering partial views of the C",
+        "title": "Hotel Riva Arun Bangkok | Official Website",
+        "source": "official_homepage",
+        "source_type": "official_homepage",
+        "source_bucket": "official",
+        "score": 15,
+        "score_reasons": [
+          "official/government source",
+          "uncertain starting price wording"
+        ],
+        "url": "https://www.rivaarunbangkok.com/en/"
+      },
+      {
+        "value": 300.0,
+        "currency": "THB",
+        "raw_price_text": "From THB3,00",
+        "context": ", the Superior Rooms at Riva Arun Bangkok overlook the neighboring side street. From THB3,008 taxes not included. Book now See more Deluxe A floor plan offering between 25",
+        "title": "Hotel Riva Arun Bangkok | Official Website",
+        "source": "official_homepage",
+        "source_type": "official_homepage",
+        "source_bucket": "official",
+        "score": 15,
+        "score_reasons": [
+          "official/government source",
+          "uncertain starting price wording"
+        ],
+        "url": "https://www.rivaarunbangkok.com/en/"
+      },
+      {
+        "value": 445.0,
+        "currency": "THB",
+        "raw_price_text": "From THB4,45",
+        "context": "of the Chao Phraya River when entering the Deluxe Rooms at Riva Arun Bangkok . From THB4,450 taxes not included. Book now See more Grand Deluxe The 50 sqm Grand Deluxe Roo",
+        "title": "Hotel Riva Arun Bangkok | Official Website",
+        "source": "official_homepage",
+        "source_type": "official_homepage",
+        "source_bucket": "official",
+        "score": 15,
+        "score_reasons": [
+          "official/government source",
+          "uncertain starting price wording"
+        ],
+        "url": "https://www.rivaarunbangkok.com/en/"
+      },
+      {
+        "value": 572.0,
+        "currency": "THB",
+        "raw_price_text": "From THB5,72",
+        "context": "Riva Arun Bangkok provides a luxurious oasis overlooking the Chao Praya River. From THB5,721 taxes not included. Book now See more Premium Jacuzzi Suite The largest and mo",
+        "title": "Hotel Riva Arun Bangkok | Official Website",
+        "source": "official_homepage",
+        "source_type": "official_homepage",
+        "source_bucket": "official",
+        "score": 15,
+        "score_reasons": [
+          "official/government source",
+          "uncertain starting price wording"
+        ],
+        "url": "https://www.rivaarunbangkok.com/en/"
+      },
+      {
+        "value": 724.0,
+        "currency": "THB",
+        "raw_price_text": "From THB7,24",
+        "context": "ium Jacuzzi Suites at Riva Arun Bangkok offer 73 sqm of exclusivity and luxury. From THB7,245 taxes not included. Book now See more Enjoy our unique experiences Highlights_",
+        "title": "Hotel Riva Arun Bangkok | Official Website",
+        "source": "official_homepage",
+        "source_type": "official_homepage",
+        "source_bucket": "official",
+        "score": 15,
+        "score_reasons": [
+          "official/government source",
+          "uncertain starting price wording"
+        ],
+        "url": "https://www.rivaarunbangkok.com/en/"
+      }
+    ],
+    "sources": [
+      "https://www.openstreetmap.org/way/23481741",
+      "http://www.bangkok.com/attraction-temple/wat-arun.htm",
+      "https://www.rivaarunbangkok.com/en/",
+      "https://www.facebook.com/watarunofficial/",
+      "https://en.wikipedia.org/wiki/Wat_Arun"
+    ]
+  },
+  "chatuchak weekend market::bangkok": {
+    "query_type": "attraction_info",
+    "name": "Chatuchak Weekend Market",
+    "description": "The Chatuchak Weekend Market, on Kamphaeng Phet 2 Road, Chatuchak, Bangkok, is the largest market in Thailand. Also affectionately known as JJ Market, it has more than 15,000 stalls and 11,505 vendors (2019), divided into 27 sections. Chatuchak Market sells many different kinds of goods, including plants, antiques, consumer electronics, cosmetics, pets, fresh and dry food and drinks, ceramics, furniture and home accessories, clothing, and books.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bangkok_-_Jatujak_Market_02.JPG/330px-Bangkok_-_Jatujak_Market_02.JPG",
+    "opening_hours": "",
+    "visit_duration": "7-18 hours",
+    "ticket_price": "Free",
+    "ticket_status": "free",
+    "price_type": "unknown",
+    "price_note": "Official price not found.",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Chatuchak_Weekend_Market",
+      "https://www.openstreetmap.org/way/37911198",
+      "https://www.tripadvisor.com/FAQ_Answers-g293916-d450971-t2722845.html",
+      "https://www.tripadvisor.com/FAQ_Answers-g293916-d450971-t4967538-Do_I_need_to_pay_for_entrance_and_how_much.html"
+    ]
+  },
+  "jim thompson house museum::bangkok": {
+    "query_type": "attraction_info",
+    "name": "Jim Thompson House Museum",
+    "description": "",
+    "image_url": "https://serpapi.com/searches/69c266eb132583d43af9dcff/images/Z_4p9ur6YYJejZs3xaTX_AIaShNb4Br-ybBq4wNsJjw.png",
+    "opening_hours": "Mo-Su 09:00-17:00",
+    "visit_duration": "1.5-3 hours",
+    "ticket_price": "",
+    "ticket_status": "unknown",
+    "price_type": "unknown",
+    "price_note": "Visits are by guided tour only.",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://www.openstreetmap.org/way/341577340",
+      "https://en.wikipedia.org/wiki/Jim_Thompson_House",
+      "https://www.tripadvisor.com/Attraction_Review-g293916-d447276-Reviews-Jim_Thompson_House-Bangkok.html",
+      "https://my.trip.com/travel-guide/attraction/bangkok/jim-thompson-house-museum-10524188/?locale=en-MY"
+    ]
   }
 }

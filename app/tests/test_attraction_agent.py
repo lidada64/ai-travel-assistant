@@ -48,6 +48,8 @@ def _candidate_attractions(location: str) -> list[str]:
         "penang": ["George Town", "Penang Hill", "ESCAPE Penang"],
         "kuala lumpur": ["KL Bird Park", "Petronas Twin Towers", "Batu Caves"],
         "george town": ["Penang Street Art", "Khoo Kongsi", "Chew Jetty"],
+        "seoul": ["Gyeongbokgung Palace", "Myeongdong", "N Seoul Tower"],
+        "bangkok": ["The Grand Palace", "Wat Arun", "Chatuchak Market"],
     }
     normalized = location.strip().lower()
     return mapping.get(normalized, [f"{location} Old Town", f"{location} City Park"])

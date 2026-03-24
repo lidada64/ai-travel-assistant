@@ -2,6 +2,7 @@
 import { computed, ref } from 'vue'
 import { storeToRefs } from 'pinia'
 import { useItineraryStore } from '../stores/itinerary'
+import { marked } from 'marked'
 
 const store = useItineraryStore()
 const { ui, ai } = storeToRefs(store)
@@ -10,6 +11,9 @@ const userInput = ref('')
 const submitError = ref('')
 
 const isValid = computed(() => userInput.value.trim().length > 0)
+const parsedAiOutput = computed(() => {
+  return ai.value.output ? marked.parse(ai.value.output) : ''
+})
 
 const onGenerate = async () => {
   submitError.value = ''
@@ -52,12 +56,13 @@ const onGenerate = async () => {
       </div>
     </div>
 
-    <div class="border border-[var(--line)] bg-[rgba(10,10,10,0.72)]">
-      <div class="flex items-center justify-between border-b border-[var(--line)] px-3 py-2">
+    <div class="border border-[var(--line)] bg-[rgba(10,10,10,0.72)] flex flex-col h-[320px]">
+      <div class="flex items-center justify-between border-b border-[var(--line)] px-3 py-2 shrink-0 bg-[rgba(10,10,10,0.9)] backdrop-blur">
         <div class="mono text-[11px] uppercase tracking-[0.22em] text-[var(--dim)]">AI Answer</div>
       </div>
-      <div class="mono px-3 py-3 text-[12px] leading-5 text-[var(--muted)] whitespace-pre-wrap">
-        {{ ai.output || '生成后将在此显示 AI 的自然语言回答' }}
+      <div class="px-3 py-3 text-[13px] leading-6 text-[var(--muted)] prose prose-invert max-w-none flex-1 overflow-y-auto custom-scrollbar">
+        <div v-if="parsedAiOutput" v-html="parsedAiOutput"></div>
+        <div v-else class="mono text-[12px]">生成后将在此显示 AI 的自然语言回答</div>
       </div>
     </div>
   </div>

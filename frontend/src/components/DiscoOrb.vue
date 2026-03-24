@@ -6,13 +6,22 @@ import { RenderPass } from 'three/examples/jsm/postprocessing/RenderPass.js';
 import { UnrealBloomPass } from 'three/examples/jsm/postprocessing/UnrealBloomPass.js';
 import { ShaderPass } from 'three/examples/jsm/postprocessing/ShaderPass.js';
 
+const props = defineProps({
+  active: { type: Boolean, default: false },
+});
+
 // 容器引用
 const canvasContainer = ref(null);
 
 // 变量定义以便销毁时清理
 let scene, camera, renderer, composer;
 let sphereMesh, sphereGroup, ringSystem, tetherLine;
+let bloomPass;
 let animationId;
+let lastT = 0;
+let ringScale = 1;
+let bloomStrength = 0.3;
+let ringOpacity = 0.5;
 
 // --- 配置参数 ---
 const CONFIG = {
@@ -240,7 +249,7 @@ const initThree = () => {
   composer.addPass(renderPass);
 
   // Bloom
-  const bloomPass = new UnrealBloomPass(
+  bloomPass = new UnrealBloomPass(
       new THREE.Vector2(width, height),
       0.3,
       0.9,
@@ -308,6 +317,16 @@ const onWindowResize = () => {
 const animate = () => {
   animationId = requestAnimationFrame(animate);
   const time = performance.now() * 0.001;
+  const dt = lastT ? Math.min(0.05, Math.max(0.001, time - lastT)) : 0.016;
+  lastT = time;
+  const isActive = !!props.active;
+  const targetRingScale = isActive ? 1.35 : 1.0;
+  const targetBloom = isActive ? 0.95 : 0.3;
+  const targetOpacity = isActive ? 0.85 : 0.5;
+
+  ringScale += (targetRingScale - ringScale) * 0.08;
+  bloomStrength += (targetBloom - bloomStrength) * 0.08;
+  ringOpacity += (targetOpacity - ringOpacity) * 0.1;
 
   if (sphereMesh) {
     sphereMesh.rotation.y = time * 0.1;
@@ -317,10 +336,11 @@ const animate = () => {
   if (ringSystem) {
     const positions = ringSystem.geometry.attributes.position.array;
     const orbits = ringSystem.userData.orbits;
+    const speedFactor = isActive ? 2.4 : 1.0;
 
     for (let i = 0; i < orbits.length; i++) {
       const o = orbits[i];
-      o.theta += o.speed * 0.005;
+      o.theta += o.speed * 0.005 * speedFactor;
       const x = o.r * Math.cos(o.theta);
       const z = o.r * Math.sin(o.theta);
       positions[i * 3] = x;
@@ -328,6 +348,17 @@ const animate = () => {
       positions[i * 3 + 2] = z;
     }
     ringSystem.geometry.attributes.position.needsUpdate = true;
+
+    ringSystem.rotation.y += dt * (isActive ? 1.35 : 0.35);
+    ringSystem.scale.setScalar(ringScale);
+    if (ringSystem.material) {
+      ringSystem.material.opacity = ringOpacity;
+      ringSystem.material.needsUpdate = false;
+    }
+  }
+
+  if (bloomPass) {
+    bloomPass.strength = bloomStrength;
   }
 
   const filmPass = composer.passes[2];
@@ -351,5 +382,12 @@ const animate = () => {
   background: transparent;
   overflow: hidden;
   position: relative;
+}
+
+.disco-scene :deep(canvas) {
+  position: absolute;
+  inset: 0;
+  width: 100% !important;
+  height: 100% !important;
 }
 </style>
