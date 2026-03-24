@@ -240,5 +240,81 @@
     "visit_duration": "2-4 hours (estimated)",
     "ticket_price": "",
     "sources": []
+  },
+  "bangkok old town::bangkok": {
+    "query_type": "attraction_info",
+    "name": "Bangkok Old Town",
+    "description": "",
+    "image_url": "",
+    "opening_hours": "",
+    "visit_duration": "2-3 hours (estimated)",
+    "ticket_price": "",
+    "ticket_status": "unknown",
+    "price_type": "unknown",
+    "price_note": "No attraction-specific ticket source found.",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://www.openstreetmap.org/node/5330666722"
+    ]
+  },
+  "bangkok city park::bangkok": {
+    "query_type": "attraction_info",
+    "name": "Bangkok City Park",
+    "description": "",
+    "image_url": "",
+    "opening_hours": "",
+    "visit_duration": "2-4 hours (estimated)",
+    "ticket_price": "",
+    "ticket_status": "unknown",
+    "price_type": "unknown",
+    "price_note": "No attraction-specific ticket source found.",
+    "ticket_price_candidates": [],
+    "sources": []
+  },
+  "pattaya old town::pattaya": {
+    "query_type": "attraction_info",
+    "name": "Pattaya Old Town",
+    "description": "",
+    "image_url": "",
+    "opening_hours": "",
+    "visit_duration": "2-3 hours (estimated)",
+    "ticket_price": "",
+    "ticket_status": "unknown",
+    "price_type": "unknown",
+    "price_note": "No attraction-specific ticket source found.",
+    "ticket_price_candidates": [],
+    "sources": []
+  },
+  "pattaya city park::pattaya": {
+    "query_type": "attraction_info",
+    "name": "Pattaya City Park",
+    "description": "",
+    "image_url": "",
+    "opening_hours": "",
+    "visit_duration": "2-4 hours (estimated)",
+    "ticket_price": "",
+    "ticket_status": "unknown",
+    "price_type": "unknown",
+    "price_note": "No attraction-specific ticket source found.",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://www.openstreetmap.org/way/462607301"
+    ]
+  },
+  "zhengzhou old town::zhengzhou": {
+    "name": "Zhengzhou Old Town",
+    "image_url": "",
+    "opening_hours": "",
+    "visit_duration": "2 hours (estimated)",
+    "ticket_price": "",
+    "sources": []
+  },
+  "zhengzhou city park::zhengzhou": {
+    "name": "Zhengzhou City Park",
+    "image_url": "",
+    "opening_hours": "",
+    "visit_duration": "2-4 hours (estimated)",
+    "ticket_price": "",
+    "sources": []
   }
 }
