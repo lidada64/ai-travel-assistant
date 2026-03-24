@@ -24,7 +24,26 @@ import { RouterLink, RouterView } from 'vue-router'
       </div>
     </header>
     <main class="mx-auto max-w-[1680px] px-6 py-6">
-      <RouterView />
+      <Transition name="route-switch" mode="out-in">
+        <RouterView />
+      </Transition>
     </main>
   </div>
 </template>
+
+<style>
+.route-switch-enter-active,
+.route-switch-leave-active {
+  transition:
+    opacity 0.28s cubic-bezier(0.22, 1, 0.36, 1),
+    transform 0.28s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.route-switch-enter-from {
+  opacity: 0;
+  transform: translateY(6px) scale(0.98);
+}
+.route-switch-leave-to {
+  opacity: 0;
+  transform: translateY(-6px) scale(0.98);
+}
+</style>

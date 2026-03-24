@@ -85,7 +85,7 @@ export const useItineraryStore = defineStore('itinerary', {
       mustVisitAttractions: [],
     },
     ui: { loading: false, error: null },
-    ai: { lines: [], running: false },
+    ai: { lines: [], running: false, output: '' },
   }),
   getters: {
     timelineItems(state) {
@@ -117,6 +117,7 @@ export const useItineraryStore = defineStore('itinerary', {
       this.ui.loading = true
       this.ui.error = null
       this.raw = { flights: [], hotels: [], views: [] }
+      this.ai.output = ''
 
       this.ai.lines = []
       this.startAi()
@@ -134,12 +135,18 @@ export const useItineraryStore = defineStore('itinerary', {
         const baseUrl = normalizeBaseUrl(import.meta.env.VITE_API_BASE_URL)
         const url = `${baseUrl}/api/v1/agent/generate_itinerary`
 
-        const body = {
-          departure: payload.departure,
-          destination: payload.destination,
-          pax: payload.pax,
-          budget: payload.budget,
-          time: payload.time,
+        let body
+        const userInput = typeof payload?.input === 'string' ? payload.input.trim() : ''
+        if (userInput) {
+          body = { input: userInput }
+        } else {
+          body = {
+            departure: payload.departure,
+            destination: payload.destination,
+            pax: payload.pax,
+            budget: payload.budget,
+            time: payload.time,
+          }
         }
         if (Array.isArray(payload.mustVisitAttractions) && payload.mustVisitAttractions.length > 0) {
           body.must_visit_attractions = payload.mustVisitAttractions
@@ -187,6 +194,7 @@ export const useItineraryStore = defineStore('itinerary', {
           hotels: Array.isArray(data.hotels) ? data.hotels : [],
           views: Array.isArray(data.views) ? data.views : [],
         }
+        this.ai.output = typeof data.output === 'string' ? data.output : ''
 
         this.appendAiLine({ level: 'system', text: '> Done: Itinerary generated.' })
         return this.raw

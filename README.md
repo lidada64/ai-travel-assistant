@@ -325,3 +325,7 @@ python app/agents/attraction_demo.py
 - 建议游玩时长
 - 门票价格
 - 图片链接与来源
+
+## 后端quick start
+
+uvicorn app.server:app --host 127.0.0.1 --port 8000
