@@ -1,0 +1,489 @@
+{
+  "bangkok old town::bangkok": {
+    "name": "Bangkok Old Town",
+    "image_url": "https://serpapi.com/searches/69c1232255ba651cd21552b0/images/9EfzoqFfb-O2SjFKQlRzwtwA0M1iJrnzw5n2uy67dP0.jpeg",
+    "opening_hours": "8.00 AM to 5.00 PM",
+    "visit_duration": "2 hours (estimated)",
+    "ticket_price": "fee at the entrance",
+    "sources": [
+      {
+        "title": "Ancient City Bangkok Opening Hours | Best Time to Visit",
+        "link": "https://www.bangkok-tickets.com/ancient-city/opening-hours/",
+        "snippet": "The Ancient City Bangkok is open daily from 9am to 7pm. What's the best time of day to visit the Ancient City Bangkok?"
+      },
+      {
+        "title": "Bangkok Old Town - Things to Do",
+        "link": "https://homeiswhereyourbagis.com/en/bangkok-old-town-things-to-do/",
+        "snippet": "It is open daily from 8.00 AM to 5.00 PM, and you should leave a donation of at least 20 baht as an entrance fee at the entrance. 13. Wat Saket."
+      },
+      {
+        "title": "Ancient City, Bangkok: Hours, Best Time and More",
+        "link": "https://www.thethaipass.com/attractions/ancient-city",
+        "snippet": "The Ancient City Bangkok is open from 9 am to 7 pm daily, with the last entry at 6 pm. It is advised to check the opening hours before visiting."
+      },
+      {
+        "title": "what is the opening hours - Old Town",
+        "link": "https://www.tripadvisor.com/FAQ_Answers-g187234-d254286-t7174396-What_is_the_opening_hours.html",
+        "snippet": "Restaurants open mostly at 12 pm to 2.30/3pm. Evening definitely 7 pm to about 10 pm. Even if there are staff in between, they will not serve."
+      },
+      {
+        "title": "Old Town Bangkok – A Guide to the City's most charming ...",
+        "link": "https://www.midnightblueelephant.com/things-to-do-in-old-town-bangkok/",
+        "snippet": "Experience life like a local and explore Old Town Bangkok - A guide to exploring local life, the best street food & where to stay in Old ..."
+      },
+      {
+        "title": "Explore the Old Town of Bangkok - The Yard Hostel",
+        "link": "https://www.theyardbangkok.com/blog/explore-the-old-town-of-bangkok",
+        "snippet": "Admission: 500 baht – Bring your passport (or a copy). · Opening Hours: Daily from 8:30 a.m. to 3:30 p.m. · Dress Code: Long pants or a long skirt ..."
+      }
+    ]
+  },
+  "forbidden city::beijing": {
+    "query_type": "attraction_info",
+    "name": "Forbidden City",
+    "description": "The Forbidden City is the imperial palace complex in the center of the Imperial City in Beijing, China. It was the residence of 24 Ming and Qing dynasty Emperors, and the center of political power in China for over 500 years from 1420 to 1924. The palace is now administered by the Palace Museum and has been a UNESCO World Heritage Site since 1987. The Forbidden City is arguably the most famous palace in all of Chinese history, and is the largest preserved royal palace complex still standing in the world.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_Forbidden_City_-_View_from_Coal_Hill.jpg/330px-The_Forbidden_City_-_View_from_Coal_Hill.jpg",
+    "opening_hours": "",
+    "visit_duration": "2-3 hours (estimated)",
+    "ticket_price": "",
+    "ticket_status": "unknown",
+    "price_type": "unknown",
+    "price_note": "Official price not found.",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Forbidden_City",
+      "https://www.openstreetmap.org/relation/9511883"
+    ]
+  },
+  "temple of heaven::beijing": {
+    "query_type": "attraction_info",
+    "name": "天坛公园",
+    "description": "imperial complex of religious buildings in Beijing, China",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Category%3ATemple%20of%20Heaven",
+    "opening_hours": "opening_hours=Apr 1-Oct 31 06:00-21:00",
+    "visit_duration": "1-2 hours (estimated)",
+    "ticket_price": "",
+    "ticket_status": "unknown",
+    "price_type": "unknown",
+    "price_note": "Official price not found.",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://www.openstreetmap.org/way/24824550",
+      "https://www.tiantanpark.cn/"
+    ]
+  },
+  "summer palace::beijing": {
+    "query_type": "attraction_info",
+    "name": "Summer Palace",
+    "description": "The Summer Palace or Yihe Garden was built by the Chinese Empress Cixi as a pavilion for quiet retreat. It is a vast ensemble of lakes, gardens and palaces in Beijing. An imperial garden during the Qing dynasty, it includes Longevity Hill, Kunming Lake, and Seventeen Hole Bridge. It covers an expanse of 2.9 square kilometres (1.1 sq mi), three-quarters of which is water.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Longevity_Hill_of_the_Summer_Palace.jpg/330px-Longevity_Hill_of_the_Summer_Palace.jpg",
+    "opening_hours": "",
+    "visit_duration": "2-4 hours (estimated)",
+    "ticket_price": "",
+    "ticket_status": "unknown",
+    "price_type": "unknown",
+    "price_note": "Official price not found.",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Summer_Palace",
+      "https://www.openstreetmap.org/way/29228773"
+    ]
+  },
+  "mutianyu great wall::beijing": {
+    "query_type": "attraction_info",
+    "name": "慕田峪长城",
+    "description": "Mutianyu is a section of the Great Wall of China located in Huairou District within the city limits of Beijing 70 kilometers (43 mi) northeast of the center of the city. The Mutianyu section of the Great Wall is connected with Jiankou in the west and Lianhuachi in the east. As one of the best-preserved parts of the Great Wall, the Mutianyu section of the Great Wall used to serve as the northern barrier defending the capital and the imperial tombs.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Great_Wall_of_China_July_2006.JPG/330px-Great_Wall_of_China_July_2006.JPG",
+    "opening_hours": "",
+    "visit_duration": "2 hours (estimated)",
+    "ticket_price": "",
+    "ticket_status": "unknown",
+    "price_type": "unknown",
+    "price_note": "Official price not found.",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://www.openstreetmap.org/node/5769604833",
+      "https://en.wikipedia.org/wiki/Mutianyu"
+    ]
+  },
+  "tiananmen square::beijing": {
+    "query_type": "attraction_info",
+    "name": "Tiananmen Square",
+    "description": "Tiananmen Square or Tian'anmen Square is a city square in the city centre of Beijing, China, named after the Tiananmen located to its north, which separates it from the Forbidden City imperial palace complex. The square holds the Monument to the People's Heroes, the Great Hall of the People, the National Museum of China, and the Chairman Mao Memorial Hall. They were inscribed in the UNESCO World Heritage Sites in 2024 as a part of the Beijing Central Axis.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Tiananmen_Square_%2854137047250%29.jpg/330px-Tiananmen_Square_%2854137047250%29.jpg",
+    "opening_hours": "",
+    "visit_duration": "2-3 hours (estimated)",
+    "ticket_price": "",
+    "ticket_status": "unknown",
+    "price_type": "unknown",
+    "price_note": "Official price not found.",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tiananmen_Square",
+      "https://www.openstreetmap.org/relation/941596"
+    ]
+  },
+  "gyeongbokgung palace::seoul": {
+    "query_type": "attraction_info",
+    "name": "경복궁",
+    "description": "palace in Seoul, South Korea",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%EA%B4%91%ED%99%94%EB%AC%B8%20%EC%9B%94%EB%8C%80.jpg",
+    "opening_hours": "Jan-Feb,Nov-Dec 09:00-17:00",
+    "visit_duration": "2-3 hours (estimated)",
+    "ticket_price": "Free",
+    "ticket_status": "free",
+    "price_type": "free",
+    "price_note": "Official source (via rule_candidates) and rule-based price indicate free admission.",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://www.openstreetmap.org/relation/5501517",
+      "http://www.royalpalace.go.kr",
+      "https://english.visitseoul.net/attractions/Gyeongbokgung/ENP000072",
+      "https://www.tripadvisor.com/FAQ_Answers-g294197-d324888-t6671204-Hello_where_do_you_buy_tickets_in_advance.html",
+      "https://www.tripadvisor.com/Attraction_Review-g294197-d324888-Reviews-Gyeongbokgung_Palace-Seoul.html"
+    ]
+  },
+  "bukchon hanok village::seoul": {
+    "query_type": "attraction_info",
+    "name": "Bukchon Hanok Village",
+    "description": "Bukchon Hanok Village (Korean: 북촌한옥마을) is a residential neighborhood in Jongno District, Seoul, South Korea. It has many restored traditional Korean houses, called hanok. This has made it a popular tourist destination.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bukchon_Hanok_Village_01.jpg/330px-Bukchon_Hanok_Village_01.jpg",
+    "opening_hours": "",
+    "visit_duration": "2.5 hours",
+    "ticket_price": "Free",
+    "ticket_status": "free",
+    "price_type": "unknown",
+    "price_note": "Official price not found.",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bukchon_Hanok_Village",
+      "https://www.openstreetmap.org/node/2669684119",
+      "https://english.visitseoul.net/attractions/Bukchon-Hanok-Village/ENP000261",
+      "https://www.tripadvisor.com/Attraction_Review-g294197-d1379963-Reviews-Bukchon_Hanok_Village-Seoul.html"
+    ]
+  },
+  "n seoul tower::seoul": {
+    "query_type": "attraction_info",
+    "name": "N Seoul Tower",
+    "description": "Namsan Seoul Tower (Korean: 남산서울타워), also known as YTN Seoul Tower, Namsan Tower, Seoul Tower or N Seoul Tower, is a communication and observation tower located on the summit of Namsan in central Seoul, South Korea. The 236-metre-tall (774 ft) structure was the nation’s first tower servicing multiple TV and radio broadcasters, and is considered a landmark and symbol of the city.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/NamsanTower_%28Cropped%29.jpeg/330px-NamsanTower_%28Cropped%29.jpeg",
+    "opening_hours": "11 am to 9:30 pm",
+    "visit_duration": "1.5 hours",
+    "ticket_price": "RM 0",
+    "ticket_status": "paid",
+    "price_type": "exact",
+    "price_note": "Parsed from ticket-related source content (2 candidates reviewed)",
+    "ticket_price_candidates": [
+      {
+        "value": 0.0,
+        "currency": "USD",
+        "raw_price_text": "$ 0",
+        "context": "on Data Protection in the General Terms and Conditions . Help Shopping basket US$ 0 View shopping cart Your shopping basket is empty Our destinations Civitatis Mag",
+        "title": "N Seoul Tower | Official Tickets - Book Online at Civitatis.com",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.civitatis.com/en/seoul/seoul-tower-ticket/?srsltid=AfmBOoqjS3zi9mdWYeSmCIQ-10mLM1t8nMXSOCCNLUjbD1EG4BMkRSj9"
+      },
+      {
+        "value": 73.98,
+        "currency": "USD",
+        "raw_price_text": "$73.98",
+        "context": "2026 N Seoul Tower Observatory Ticket (with Reviews) from $73.98 per adult (price varies by group size). 2 Day Highlight ... What's included. N",
+        "title": "2026 N Seoul Tower Observatory Ticket (with Reviews)",
+        "source": "review_page",
+        "source_type": "review_page",
+        "source_bucket": "weak",
+        "score": 20,
+        "score_reasons": [
+          "weak/non-official source",
+          "ticket/admission wording",
+          "adult ticket wording"
+        ],
+        "url": "https://www.tripadvisor.com/AttractionProductReview-g294197-d25568714-N_Seoul_Tower_Observatory_Ticket-Seoul.html"
+      }
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Namsan_Seoul_Tower",
+      "https://www.openstreetmap.org/node/3863007895",
+      "https://www.civitatis.com/en/seoul/seoul-tower-ticket/?srsltid=AfmBOoqjS3zi9mdWYeSmCIQ-10mLM1t8nMXSOCCNLUjbD1EG4BMkRSj9",
+      "https://en.wikipedia.org/wiki/N_Seoul_Tower",
+      "https://www.tripadvisor.com/AttractionProductReview-g294197-d25568714-N_Seoul_Tower_Observatory_Ticket-Seoul.html"
+    ]
+  },
+  "myeongdong::seoul": {
+    "query_type": "attraction_info",
+    "name": "Myeongdong",
+    "description": "Myeong-dong is a dong (neighborhood) in Jung District, Seoul, South Korea. It is between Chungmu-ro, Eulji-ro, and Namdaemun-ro.\nMyeongdong is known for being one of Seoul's main shopping, parade route, and tourism districts. In 2023, it was listed as the ninth most expensive shopping street in the world. The area is known for its two historically significant sites, namely the Myeongdong Cathedral and the Myeongdong Theater. Performances at Myeongdong Nanta Theater are popular.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/%EB%AA%85%EB%8F%998%EA%B8%B8_%EA%B1%B0%EB%A6%AC_%282020.03%29.jpg/330px-%EB%AA%85%EB%8F%998%EA%B8%B8_%EA%B1%B0%EB%A6%AC_%282020.03%29.jpg",
+    "opening_hours": "",
+    "visit_duration": "8-9 hours",
+    "ticket_price": "Free",
+    "ticket_status": "free",
+    "price_type": "unknown",
+    "price_note": "Official price not found.",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Myeong-dong",
+      "https://www.openstreetmap.org/node/6036160341",
+      "https://english.visitseoul.net/entertainment/Myeongdong-Theater/ENP003411",
+      "https://english.visitseoul.net/myeongdong",
+      "https://www.tripadvisor.com/Attraction_Review-g294197-d32811022-Reviews-Myeongdong_Night_Market-Seoul.html"
+    ]
+  },
+  "changdeokgung palace::seoul": {
+    "query_type": "attraction_info",
+    "name": "창덕궁",
+    "description": "Changdeokgung is a former royal palace in Seoul, South Korea. A UNESCO World Heritage Site and a Historic Site of South Korea, it is among the best preserved of all Korean palaces. It and its neighboring palace Changgyeonggung have together been called the \"East Palace\".",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/%EC%B0%BD%EB%8D%95%EA%B6%81_%EC%A0%84%EA%B2%BD_%282012%29.jpg/330px-%EC%B0%BD%EB%8D%95%EA%B6%81_%EC%A0%84%EA%B2%BD_%282012%29.jpg",
+    "opening_hours": "",
+    "visit_duration": "2-4 hours (estimated)",
+    "ticket_price": "Free",
+    "ticket_status": "free",
+    "price_type": "exact",
+    "price_note": "Koreans (ages 25-64) and foreigners (ages 19-64) pay 3,000 won. Groups of 10 or more receive a 20% discount.",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://www.openstreetmap.org/way/789965985",
+      "https://en.wikipedia.org/wiki/Changdeokgung",
+      "www.cdg.go.kr",
+      "https://english.visitseoul.net/attractions/Changdeokgung-Palace/ENP000295",
+      "https://www.tripadvisor.com/Attraction_Review-g294197-d320359-Reviews-Changdeokgung_Palace-Seoul.html",
+      "https://www.facebook.com/groups/koreatravelguide/posts/2861371790693616/"
+    ]
+  },
+  "dongdaemun design plaza::seoul": {
+    "query_type": "attraction_info",
+    "name": "Dongdaemun Design Plaza",
+    "description": "Dongdaemun Design Plaza is a major urban development landmark in Seoul, South Korea, designed by Zaha Hadid and Samoo, with a distinctively neofuturistic design characterized by the \"powerful, curving forms of elongated structures.\" The landmark is the centerpiece of South Korea's fashion hub and popular tourist destination, Dongdaemun, featuring a walkable park on its roofs, large global exhibition spaces, futuristic retail stores, and restored parts of the Seoul fortress.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Dongdaemun_Design_Plaza_at_night%2C_Seoul%2C_Korea.jpg/330px-Dongdaemun_Design_Plaza_at_night%2C_Seoul%2C_Korea.jpg",
+    "opening_hours": "10:00 AM–8:00 PM",
+    "visit_duration": "2.5 hours",
+    "ticket_price": "Free",
+    "ticket_status": "free",
+    "price_type": "free",
+    "price_note": "The main plaza offers free entry. However, some specific exhibits or museum-like spaces within the Dongdaemun Design Plaza may have an entry fee.",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dongdaemun_Design_Plaza",
+      "https://www.openstreetmap.org/relation/10647068",
+      "https://english.seoul.go.kr/seoul-policy-archive/dongdaemun-design-plaza/",
+      "https://www.tripadvisor.com/Attraction_Review-g294197-d6671988-Reviews-Dongdaemun_Design_Plaza_DDP-Seoul.html",
+      "https://www.trip.com/travel-guide/attraction/seoul/dongdaemun-design-plaza-11077091/"
+    ]
+  },
+  "lotte world::seoul": {
+    "query_type": "attraction_info",
+    "name": "Lotte World",
+    "description": "Lotte World or Lotte World Adventure is a theme park and major recreation complex in Seoul, South Korea. Opened in July 1989, Lotte World consists of a large indoor theme park, an outdoor amusement park called \"Magic Island\", shopping malls, a luxury hotel, an observation tower, a Korean folk museum, sports facilities and movie theaters. Lotte World's sister theme park, Lotte World Adventure Busan, opened in March 2022. In 2023 Lotte World received 5.1 million visitors, making it the 23rd-most visited theme park in the world that year and the tenth-most visited in Asia.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lotte_World_day_view_2.jpg/330px-Lotte_World_day_view_2.jpg",
+    "opening_hours": "",
+    "visit_duration": "120 hours",
+    "ticket_price": "Free",
+    "ticket_status": "free",
+    "price_type": "exact",
+    "price_note": "Sources describe Lotte World as a 'theme park' and 'major recreation complex', which typically require paid admission.",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lotte_World",
+      "https://www.openstreetmap.org/way/26281660",
+      "https://english.visitseoul.net/entertainment/Lotte-World-Adventure/ENP002192",
+      "https://www.tripadvisor.com/Attraction_Review-g294197-d324891-Reviews-Lotte_World-Seoul.html"
+    ]
+  },
+  "hongdae::seoul": {
+    "query_type": "attraction_info",
+    "name": "Hongdae",
+    "description": "Hongdae (Korean: 홍대) is a neighborhood in Mapo District, Seoul, South Korea, near Hongik University, after which it is named. The neighborhood is known for its urban arts and indie music culture, local shops, clubs, cafés and entertainment. The area is located in Mapo District in the western end of Seoul, stretching from Seogyo-dong, Hapjeong-dong & Seogang-dong.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Street_hongdae_Seoul.jpg/330px-Street_hongdae_Seoul.jpg",
+    "opening_hours": "Open Saturdays from March to November, 13:00 - 18:00 KST",
+    "visit_duration": "2 hours",
+    "ticket_price": "Free",
+    "ticket_status": "free",
+    "price_type": "free",
+    "price_note": "Access to the Hongdae district is generally free. The provided opening hours are specifically for the Hongdae Free Market, a sub-attraction within the district, which is also free to enter.",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hongdae_(area)",
+      "https://www.openstreetmap.org/node/6586943205",
+      "https://english.visitseoul.net/shopping/hongdae-free-market_/505",
+      "https://english.visitseoul.net/hongdae",
+      "https://english.visitseoul.net/tours/nighttime-adventures-in-seoul_/32"
+    ]
+  },
+  "itaewon::seoul": {
+    "query_type": "attraction_info",
+    "name": "Itaewon",
+    "description": "Itaewon is a commercial area within the Itaewon-dong neighborhood of Yongsan District in Seoul, South Korea, known for its nightlife and multi-ethnic population.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Itaewon_2.jpg/330px-Itaewon_2.jpg",
+    "opening_hours": "",
+    "visit_duration": "2-3 hours (estimated)",
+    "ticket_price": "Free",
+    "ticket_status": "free",
+    "price_type": "unknown",
+    "price_note": "Itaewon is a district with various shops, restaurants, and entertainment venues. Access to the district itself is free. Specific activities or events within Itaewon, such as the pub crawl mentioned in the sources, may require tickets or payment.",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Itaewon",
+      "https://www.openstreetmap.org/node/6041673081",
+      "https://english.visitseoul.net/itaewon",
+      "https://english.visitseoul.net/",
+      "https://www.seoulpubcrawl.kr/itaewon/"
+    ]
+  },
+  "national museum of korea::seoul": {
+    "query_type": "attraction_info",
+    "name": "국립중앙박물관",
+    "description": "The National Museum of Korea (Korean: 국립중앙박물관) is the flagship museum of Korean history and art in South Korea. Since its establishment in 1945, the museum has been committed to various studies and research activities in the fields of archaeology, history, and art, continuously developing a variety of exhibitions and education programs.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/National_Museum_of_Korea%2C_Seoul_%282%29_%2840236586235%29.jpg/330px-National_Museum_of_Korea%2C_Seoul_%282%29_%2840236586235%29.jpg",
+    "opening_hours": "We,Sa 10:00-21:00",
+    "visit_duration": "30 minutes",
+    "ticket_price": "Free",
+    "ticket_status": "free",
+    "price_type": "free",
+    "price_note": "The Trip.com source explicitly states \"Free entry\" for the National Museum of Korea.",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://www.openstreetmap.org/way/168364800",
+      "https://en.wikipedia.org/wiki/National_Museum_of_Korea",
+      "https://www.museum.go.kr/site/main/home",
+      "https://www.tripadvisor.com/Attraction_Review-g294197-d325043-Reviews-National_Museum_Of_Korea-Seoul.html",
+      "https://www.trip.com/travel-guide/attraction/seoul/national-museum-of-korea-78919/",
+      "https://www.museum.go.kr/ENG/contents/E0102010000.do"
+    ]
+  },
+  "petronas twin towers::kuala lumpur, malaysia": {
+    "query_type": "attraction_info",
+    "name": "Menara Berkembar Petronas",
+    "description": "The Petronas Towers, also known as the Petronas Twin Towers and colloquially the KLCC Twin Towers, are an interlinked pair of 88-storey supertall skyscrapers in Kuala Lumpur, Malaysia, standing at 451.9 m (1,483 ft). From 1996 to 2004, they were the tallest buildings in the world until they were surpassed by the Taipei 101 building. The Petronas Towers remain the world's tallest twin skyscrapers, surpassing the original World Trade Center towers in New York City, and were the tallest buildings in Malaysia until 2021, when they were surpassed by Merdeka 118. The Petronas Towers are a major landmark of Kuala Lumpur, along with the nearby Kuala Lumpur Tower and Merdeka 118, and are visible in many places across the city.",
+    "image_url": "https://photos.app.goo.gl/V2NypLDxBCndaR1K6",
+    "opening_hours": "",
+    "visit_duration": "45 minutes",
+    "ticket_price": "",
+    "ticket_status": "partially_paid",
+    "price_type": "unknown",
+    "price_note": "Sources indicate that tickets are required to access specific parts of the towers, such as the Skybridge and Observation Deck, as evidenced by phrases like 'Buy Ticket' and 'book KLCC tickets'.",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://www.openstreetmap.org/way/279944536",
+      "https://en.wikipedia.org/wiki/Petronas_Towers",
+      "https://youtu.be/3xqyeSogm0w?si=8ZNmrJLUmeF-wsTb",
+      "https://www.petronastwintowers.com.my/",
+      "https://www.facebook.com/groups/167988053254960/posts/24017206201239811/",
+      "https://www.facebook.com/petronastwintowersofficial/"
+    ]
+  },
+  "batu caves::kuala lumpur, malaysia": {
+    "query_type": "attraction_info",
+    "name": "Batu Caves",
+    "description": "Batu Caves is a 325-m tall mogote with a series of limestone caves in Gombak, Selangor, Malaysia. It is located about 13 km (8.1 mi) north of the capital city of Kuala Lumpur. The cave complex contains many Hindu temples, the most popular of which is a shrine dedicated to the deity Murugan. It is the focal point of the Tamil Hindu festival of Thaipusam in Malaysia. The complex also hosts a 43 m (141 ft) high Murugan statue, one of the largest Murugan statues in the world.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Batu_Caves_stairs_2022-05.jpg/330px-Batu_Caves_stairs_2022-05.jpg",
+    "opening_hours": "",
+    "visit_duration": "30 minutes",
+    "ticket_price": "Free",
+    "ticket_status": "free",
+    "price_type": "unknown",
+    "price_note": "Sources indicate 'NO entrance fee' for Batu Caves.",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Batu_Caves",
+      "https://www.openstreetmap.org/way/483510076",
+      "https://www.facebook.com/Dr.Vineet.Official/posts/visiting-the-batu-caves-in-malaysia-dedicated-to-kartikeyamalaysia-batucavesmala/1415015826847731/",
+      "https://www.tripadvisor.com/ShowUserReviews-g3198092-d317520-r116037864-Batu_Caves-Batu_Caves_Selangor.html"
+    ]
+  },
+  "kl tower::kuala lumpur, malaysia": {
+    "query_type": "attraction_info",
+    "name": "KL Tower",
+    "description": "The Kuala Lumpur Tower, colloquially referred to as KL Tower, is a 6-storey, 421-meter-tall (1,381-foot) telecommunication tower in Kuala Lumpur, Malaysia. It is the world's seventh-tallest tower. It features an antenna which increases its height to 421 metres (1,381 ft). The roof of the pod is at 335 metres (1,099 ft). The rest of the tower below has a stairwell and an elevator to reach the upper area, which also contains a revolving restaurant, providing diners with a panoramic view of the city.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/4/40/Kuala_Lumpur_Tower_Logo.png",
+    "opening_hours": "",
+    "visit_duration": "2.5 hours",
+    "ticket_price": "",
+    "ticket_status": "unknown",
+    "price_type": "unknown",
+    "price_note": "Sources indicate that tickets are required to access specific attractions within the KL Tower, such as the Sky Deck and Sky Box.",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kuala_Lumpur_Tower",
+      "https://www.openstreetmap.org/node/5839389988",
+      "https://www.facebook.com/groups/167988053254960/posts/9883089315078070/",
+      "https://www.facebook.com/officialmenarakl/"
+    ]
+  },
+  "central market::kuala lumpur, malaysia": {
+    "query_type": "attraction_info",
+    "name": "Central Market",
+    "description": "Central Market may refer to:",
+    "image_url": "https://serpapi.com/searches/69c24733b7942ffa8288ba64/images/5SXIBg_Ad0hCbVl_111fcR3feu7-I1OmW_jSZPoEYa8.png",
+    "opening_hours": "",
+    "visit_duration": "3-4 hours",
+    "ticket_price": "RM 78490",
+    "ticket_status": "partially_paid",
+    "price_type": "exact",
+    "price_note": "The Central Market itself is a public market and appears free to enter. However, sources indicate that 'Central Market Cultural Performances' held within the market may require tickets.",
+    "ticket_price_candidates": [
+      {
+        "value": 16700.0,
+        "currency": "USD",
+        "raw_price_text": "$167,00",
+        "context": "1895, 1920, and 1921. By 1933, the warehouse expansions, costing approximately $167,000, had expanded the market to its current size. During the 1970s, as Kuala Lumpu",
+        "title": "Central Market, Kuala Lumpur",
+        "source": "official_homepage",
+        "source_type": "official_homepage",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Central_Market,_Kuala_Lumpur"
+      }
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Central_Market",
+      "https://www.openstreetmap.org/node/5151049921",
+      "https://en.wikipedia.org/wiki/Central_Market,_Kuala_Lumpur",
+      "https://www.tripadvisor.com/Attraction_Review-g298570-d450992-Reviews-Central_Market_Kuala_Lumpur-Kuala_Lumpur_Wilayah_Persekutuan.html",
+      "https://ru.trip.com/travel-guide/attraction/kuala-lumpur/central-market-cultural-performances-55830366?curr=SGD&locale=en-SG"
+    ]
+  },
+  "merdeka square::kuala lumpur, malaysia": {
+    "query_type": "attraction_info",
+    "name": "Merdeka Square",
+    "description": "Merdeka Square may refer to:Merdeka Square, Jakarta, Indonesia\nMerdeka Square, Kuala Lumpur, Malaysia\nMerdeka Square, Kota Kinabalu, Malaysia",
+    "image_url": "https://serpapi.com/searches/69c247c771ff8c2c48a06b55/images/l8ZjJQFDqAMExeBImyq1nyHVpDTBK6kx4btWrwh3J-Y.png",
+    "opening_hours": "",
+    "visit_duration": "1-2 hours (estimated)",
+    "ticket_price": "RM 235",
+    "ticket_status": "free",
+    "price_type": "exact",
+    "price_note": "The RM 235 price mentioned in the input refers to tickets for the Merdeka 118 observation deck, which is a separate attraction, not Merdeka Square itself. Sources describe Merdeka Square as a public square with no explicit admission fee.",
+    "ticket_price_candidates": [
+      {
+        "value": 50.0,
+        "currency": "USD",
+        "raw_price_text": "$50",
+        "context": "ce. The land was acquired from Yap by the British Resident Frank Swettenham for $50 per acre in 1882. &#91; 2 &#93; This patch of land, originally named the Parade",
+        "title": "Independence Square (Kuala Lumpur)",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -10,
+        "score_reasons": [
+          "weak/non-official source"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Independence_Square_(Kuala_Lumpur)"
+      }
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Merdeka_Square",
+      "https://www.reddit.com/r/malaysia/comments/1i456et/merdeka_118_official_website_for_observation_deck/",
+      "https://en.wikipedia.org/wiki/Independence_Square_(Kuala_Lumpur)",
+      "https://www.tripadvisor.com/Attraction_Review-g298570-d447385-Reviews-Dataran_Merdeka-Kuala_Lumpur_Wilayah_Persekutuan.html"
+    ]
+  }
+}
