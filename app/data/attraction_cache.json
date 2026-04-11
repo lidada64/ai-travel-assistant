@@ -2115,5 +2115,1040 @@
       "https://www.tripadvisor.com/Attraction_Review-g293916-d447276-Reviews-Jim_Thompson_House-Bangkok.html",
       "https://my.trip.com/travel-guide/attraction/bangkok/jim-thompson-house-museum-10524188/?locale=en-MY"
     ]
+  },
+  "the bund::shanghai": {
+    "query_type": "attraction_info",
+    "name": "The Bund",
+    "description": "The Bund is a waterfront area and a protected historical district in central Shanghai. The area centers on a section of Zhongshan Road within the former Shanghai International Settlement, which runs along the western bank of the Huangpu River in the eastern part of Huangpu. The area along the river faces the modern skyscrapers of Lujiazui in Pudong. The Bund usually refers to the buildings and wharves on this section of the road, as well as some adjacent areas. This region has a significant European influence, with the style of many structures most comparable to that of European cities, particularly Gothic, Baroque, Neoclassical, Romanesque, Art Deco, and Renaissance architecture. Additionally, some of the city's top eateries are located there. From the 1860s to the 1930s, it was the rich and powerful center of the foreign establishment in Shanghai, operating as a legally protected treaty port.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Bund_2.jpg/330px-The_Bund_2.jpg",
+    "opening_hours": "",
+    "visit_duration": "1-2 hours",
+    "ticket_price": "Free",
+    "ticket_status": "free",
+    "price_type": "free",
+    "price_note": "Both official sources describe The Bund as an open, public waterfront area accessible 'Open All Day' for residents and tourists, without mentioning any admission fees or tickets. Source 2 explicitly includes a 'free' candidate.",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Bund",
+      "https://www.openstreetmap.org/relation/2142077",
+      "https://english.shanghai.gov.cn/en-TravelTips/20241217/e6c6aba7ba9b4ba1b7ce45eac699aefe.html",
+      "https://english.shanghai.gov.cn/en-ScenicSpots/20231205/584672cc6d044eabb5f7f6fc9049a19f.html",
+      "https://www.meet-in-shanghai.net/en/nighttime-culture/bund-sightseeing-area-026252/"
+    ]
+  },
+  "oriental pearl tower::shanghai": {
+    "query_type": "attraction_info",
+    "name": "Oriental Pearl Tower",
+    "description": "The Oriental Pearl Tower is a futurist TV tower in Lujiazui, Shanghai. Built from 1991 to 1994, the tower was the tallest structure in China until the completion of nearby World Financial Center in 2007. Its status as Shanghai's first AAAAA tourist attraction, the tower's unique architecture, height, and fifteen observation decks have made it a cultural icon of the city.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Oriental_Pearl_Tower_in_Shanghai.jpg/330px-Oriental_Pearl_Tower_in_Shanghai.jpg",
+    "opening_hours": "",
+    "visit_duration": "1-2 hours (estimated)",
+    "ticket_price": "RM 1.03–RM 3736.50",
+    "ticket_status": "partially_paid",
+    "price_type": "range",
+    "price_note": "The landmark itself can be viewed from afar for free. Access to the viewing decks and other specific attractions within the tower is paid, with prices varying by package (e.g., Two Sphere Sightseeing, Three Sphere Ticket, or packages including a Revolving Restaurant Buffet).",
+    "ticket_price_candidates": [
+      {
+        "value": 27.95,
+        "currency": "USD",
+        "raw_price_text": "$27.95",
+        "context": "Tips & Must-Sees Two Sphere Sightseeing. A glass-bottomed walkway! Price from US$27.95 ; Three Sphere Ticket. 360-degree views of Shanghai! Price from US$41.99 ; Two",
+        "title": "Oriental Pearl Tower in Shanghai: Tickets, Tips & Must-Sees",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 35,
+        "score_reasons": [
+          "platform source",
+          "ticket/admission wording"
+        ],
+        "url": "https://us.trip.com/guide/attraction/oriental-pearl-tower.html"
+      },
+      {
+        "value": 41.99,
+        "currency": "USD",
+        "raw_price_text": "$41.99",
+        "context": "from US$27.95 ; Three Sphere Ticket. 360-degree views of Shanghai! Price from US$41.99 ; Two Sphere ...",
+        "title": "Oriental Pearl Tower in Shanghai: Tickets, Tips & Must-Sees",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 35,
+        "score_reasons": [
+          "platform source",
+          "ticket/admission wording"
+        ],
+        "url": "https://us.trip.com/guide/attraction/oriental-pearl-tower.html"
+      },
+      {
+        "value": 27.95,
+        "currency": "USD",
+        "raw_price_text": "$27.95",
+        "context": "Address:​​ No. 1, Century Avenue, Pudong New Area Buy Discounted Tickets from US$27.95 📱Get Connected in Shanghai Shanghai eSIM: High-speed Unlimited 4G/5G Data from",
+        "title": "Oriental Pearl Tower in Shanghai: Tickets, Tips & Must-Sees",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 35,
+        "score_reasons": [
+          "platform source",
+          "ticket/admission wording"
+        ],
+        "url": "https://us.trip.com/guide/attraction/oriental-pearl-tower.html"
+      },
+      {
+        "value": 27.95,
+        "currency": "USD",
+        "raw_price_text": "$27.95",
+        "context": "day! 76.2% Booked Two Sphere Sightseeing A glass-bottomed walkway! Price from US$27.95 Three Sphere Ticket 360-degree views of Shanghai! Price from US$41.99 Two Spher",
+        "title": "Oriental Pearl Tower in Shanghai: Tickets, Tips & Must-Sees",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 35,
+        "score_reasons": [
+          "platform source",
+          "ticket/admission wording"
+        ],
+        "url": "https://us.trip.com/guide/attraction/oriental-pearl-tower.html"
+      },
+      {
+        "value": 41.99,
+        "currency": "USD",
+        "raw_price_text": "$41.99",
+        "context": "ce from US$27.95 Three Sphere Ticket 360-degree views of Shanghai! Price from US$41.99 Two Sphere Sightseeing + Revolving Restaurant Buffet Sightseeing floor + intern",
+        "title": "Oriental Pearl Tower in Shanghai: Tickets, Tips & Must-Sees",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 35,
+        "score_reasons": [
+          "platform source",
+          "ticket/admission wording"
+        ],
+        "url": "https://us.trip.com/guide/attraction/oriental-pearl-tower.html"
+      },
+      {
+        "value": 0.37,
+        "currency": "USD",
+        "raw_price_text": "$0.37",
+        "context": "onnected in Shanghai Shanghai eSIM: High-speed Unlimited 4G/5G Data from only US$0.37 Grab cheap eSIMs, SIMs, and portable WiFi. Stay connected anywhere in China! 🎁T",
+        "title": "Oriental Pearl Tower in Shanghai: Tickets, Tips & Must-Sees",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 15,
+        "score_reasons": [
+          "platform source"
+        ],
+        "url": "https://us.trip.com/guide/attraction/oriental-pearl-tower.html"
+      },
+      {
+        "value": 51.68,
+        "currency": "USD",
+        "raw_price_text": "$51.68",
+        "context": "lving Restaurant Buffet Sightseeing floor + international buffets! Price from US$51.68 Best Hotels Near Shanghai Oriental Pearl Tower More Top Hotels Nearby... Recomm",
+        "title": "Oriental Pearl Tower in Shanghai: Tickets, Tips & Must-Sees",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 15,
+        "score_reasons": [
+          "platform source"
+        ],
+        "url": "https://us.trip.com/guide/attraction/oriental-pearl-tower.html"
+      },
+      {
+        "value": 739.0,
+        "currency": "USD",
+        "raw_price_text": "$739.00",
+        "context": "Angeles LAX Shanghai PVG Tue, Apr 21 Mon, Apr 27 One way 32% off From 1,083.00 $739.00 Book Now Los Angeles LAX Shanghai SHA Mon, Apr 20 Mon, Apr 27 One way 32% off F",
+        "title": "Oriental Pearl Tower in Shanghai: Tickets, Tips & Must-Sees",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 15,
+        "score_reasons": [
+          "platform source"
+        ],
+        "url": "https://us.trip.com/guide/attraction/oriental-pearl-tower.html"
+      },
+      {
+        "value": 739.0,
+        "currency": "USD",
+        "raw_price_text": "$739.00",
+        "context": "Angeles LAX Shanghai SHA Mon, Apr 20 Mon, Apr 27 One way 32% off From 1,083.00 $739.00 Book Now Los Angeles LAX Shanghai SHA Wed, Apr 22 Mon, Apr 27 One way 32% off F",
+        "title": "Oriental Pearl Tower in Shanghai: Tickets, Tips & Must-Sees",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 15,
+        "score_reasons": [
+          "platform source"
+        ],
+        "url": "https://us.trip.com/guide/attraction/oriental-pearl-tower.html"
+      },
+      {
+        "value": 739.0,
+        "currency": "USD",
+        "raw_price_text": "$739.00",
+        "context": "Angeles LAX Shanghai SHA Wed, Apr 22 Mon, Apr 27 One way 32% off From 1,083.00 $739.00 Book Now Los Angeles LAX Shanghai PVG Thu, Apr 23 Mon, Apr 27 One way 32% off F",
+        "title": "Oriental Pearl Tower in Shanghai: Tickets, Tips & Must-Sees",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 15,
+        "score_reasons": [
+          "platform source"
+        ],
+        "url": "https://us.trip.com/guide/attraction/oriental-pearl-tower.html"
+      },
+      {
+        "value": 739.0,
+        "currency": "USD",
+        "raw_price_text": "$739.00",
+        "context": "Angeles LAX Shanghai PVG Thu, Apr 23 Mon, Apr 27 One way 32% off From 1,083.00 $739.00 Book Now Los Angeles LAX Shanghai SHA Tue, Apr 21 Mon, Apr 27 One way 31% off F",
+        "title": "Oriental Pearl Tower in Shanghai: Tickets, Tips & Must-Sees",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 15,
+        "score_reasons": [
+          "platform source"
+        ],
+        "url": "https://us.trip.com/guide/attraction/oriental-pearl-tower.html"
+      },
+      {
+        "value": 743.0,
+        "currency": "USD",
+        "raw_price_text": "$743.00",
+        "context": "Angeles LAX Shanghai SHA Tue, Apr 21 Mon, Apr 27 One way 31% off From 1,083.00 $743.00 Book Now Los Angeles LAX Shanghai SHA Thu, Apr 23 Mon, Apr 27 One way 31% off F",
+        "title": "Oriental Pearl Tower in Shanghai: Tickets, Tips & Must-Sees",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 15,
+        "score_reasons": [
+          "platform source"
+        ],
+        "url": "https://us.trip.com/guide/attraction/oriental-pearl-tower.html"
+      },
+      {
+        "value": 743.0,
+        "currency": "USD",
+        "raw_price_text": "$743.00",
+        "context": "Angeles LAX Shanghai SHA Thu, Apr 23 Mon, Apr 27 One way 31% off From 1,083.00 $743.00 Book Now Los Angeles LAX Shanghai SHA Thu, Apr 16 Thu, Apr 23 One way 27% off F",
+        "title": "Oriental Pearl Tower in Shanghai: Tickets, Tips & Must-Sees",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 15,
+        "score_reasons": [
+          "platform source"
+        ],
+        "url": "https://us.trip.com/guide/attraction/oriental-pearl-tower.html"
+      },
+      {
+        "value": 790.0,
+        "currency": "USD",
+        "raw_price_text": "$790.00",
+        "context": "Angeles LAX Shanghai SHA Thu, Apr 16 Thu, Apr 23 One way 27% off From 1,083.00 $790.00 Book Now Los Angeles LAX Shanghai PVG Tue, Apr 21 Thu, Apr 23 One way 27% off F",
+        "title": "Oriental Pearl Tower in Shanghai: Tickets, Tips & Must-Sees",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 15,
+        "score_reasons": [
+          "platform source"
+        ],
+        "url": "https://us.trip.com/guide/attraction/oriental-pearl-tower.html"
+      },
+      {
+        "value": 795.0,
+        "currency": "USD",
+        "raw_price_text": "$795.00",
+        "context": "Angeles LAX Shanghai PVG Tue, Apr 21 Thu, Apr 23 One way 27% off From 1,083.00 $795.00 Book Now What Is the Oriental Pearl Tower and Why Was It Built? Credit: from Yi",
+        "title": "Oriental Pearl Tower in Shanghai: Tickets, Tips & Must-Sees",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": 15,
+        "score_reasons": [
+          "platform source"
+        ],
+        "url": "https://us.trip.com/guide/attraction/oriental-pearl-tower.html"
+      },
+      {
+        "value": 0.22,
+        "currency": "USD",
+        "raw_price_text": "$0.22",
+        "context": "ChatGPT | Day Pass/Total Package | 24H Billing | 1–365 Days | QR code SIM card $0.22 Book Now 852112 booked 4.7 /5 35476 reviews Mainland China 5G eSIM | Day Pass/T",
+        "title": "Oriental Pearl Tower in Shanghai: Tickets, Tips & Must-Sees",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": -20,
+        "score_reasons": [
+          "platform source",
+          "package/tour wording"
+        ],
+        "url": "https://us.trip.com/guide/attraction/oriental-pearl-tower.html"
+      },
+      {
+        "value": 0.22,
+        "currency": "USD",
+        "raw_price_text": "$0.22",
+        "context": "a Package | ChatGPT Available | 24-Hour Billing | 1-365 Days | QR Code SIM card $0.22 Book Now 392755 booked 4.6 /5 15061 reviews Mainland China/Hong Kong/Macau 5G e",
+        "title": "Oriental Pearl Tower in Shanghai: Tickets, Tips & Must-Sees",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": -20,
+        "score_reasons": [
+          "platform source",
+          "package/tour wording"
+        ],
+        "url": "https://us.trip.com/guide/attraction/oriental-pearl-tower.html"
+      },
+      {
+        "value": 0.22,
+        "currency": "USD",
+        "raw_price_text": "$0.22",
+        "context": "Package | 24-Hour Billing | In-App Installation | 1-30 Days | QR Code SIM card $0.22 Book Now FAQs about the Oriental Pearl Tower What are the must-see floors insid",
+        "title": "Oriental Pearl Tower in Shanghai: Tickets, Tips & Must-Sees",
+        "source": "ota_product_page",
+        "source_type": "ota_product_page",
+        "source_bucket": "platform",
+        "score": -20,
+        "score_reasons": [
+          "platform source",
+          "package/tour wording"
+        ],
+        "url": "https://us.trip.com/guide/attraction/oriental-pearl-tower.html"
+      }
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Oriental_Pearl_Tower",
+      "https://www.openstreetmap.org/way/40778038",
+      "https://www.tripadvisor.com/Attraction_Review-g308272-d311602-Reviews-Oriental_Pearl_Tower_Dongfang_Mingzhu-Shanghai.html",
+      "https://us.trip.com/travel-guide/attraction/shanghai/oriental-pearl-radio-and-television-tower-75627/",
+      "https://us.trip.com/guide/attraction/oriental-pearl-tower.html"
+    ]
+  },
+  "yu garden::shanghai": {
+    "query_type": "attraction_info",
+    "name": "Yu Garden",
+    "description": "Yu Garden or Yuyuan Garden is an extensive Chinese garden located beside the City God Temple in the northeast of the Old City of Shanghai at Huangpu District, Shanghai. It abuts the Yuyuan Tourist Mart, the Huxinting Teahouse and the Yu Garden Bazaar.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Shanghai_-_Yu_Garden_-_0035.jpg/330px-Shanghai_-_Yu_Garden_-_0035.jpg",
+    "opening_hours": "",
+    "visit_duration": "2-4 hours (estimated)",
+    "ticket_price": "",
+    "ticket_status": "unknown",
+    "price_type": "unknown",
+    "price_note": "No attraction-specific ticket source found.",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Yu_Garden",
+      "https://www.openstreetmap.org/way/40036584"
+    ]
+  },
+  "shanghai tower::shanghai": {
+    "query_type": "attraction_info",
+    "name": "Shanghai Tower",
+    "description": "The Shanghai Tower is a 128-story, 632-meter-tall (2,073-foot) megatall skyscraper located in Lujiazui, Pudong, Shanghai. It is currently the tallest building in China, and the world's third-tallest building by height to architectural top. It was the tallest and largest LEED-CS Platinum certified building in the world from 2016 to 2025. It was also the second tallest-building in the world, from 2015 to 2021, until the completion of Merdeka 118 in Malaysia. The Shanghai Tower also had the world's fastest elevators at a top speed of 20.5 meters per second until 2017, when it was surpassed by the Guangzhou CTF Finance Center, with its top speed of 21 meters per second.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/2/23/Shanghai_Tower_logo.png",
+    "opening_hours": "",
+    "visit_duration": "1-2 hours (estimated)",
+    "ticket_price": "",
+    "ticket_status": "unknown",
+    "price_type": "unknown",
+    "price_note": "No attraction-specific ticket source found.",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Shanghai_Tower",
+      "https://www.openstreetmap.org/way/165792123"
+    ]
+  },
+  "shanghai museum::shanghai": {
+    "query_type": "attraction_info",
+    "name": "上海博物馆",
+    "description": "museum in the Huangpu District of Shanghai, China",
+    "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20shanghai%20museum.jpg",
+    "opening_hours": "Mo-Su 09:00-17:00",
+    "visit_duration": "2-3 hours (estimated)",
+    "ticket_price": "",
+    "ticket_status": "unknown",
+    "price_type": "unknown",
+    "price_note": "No attraction-specific ticket source found.",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://www.openstreetmap.org/way/161090899",
+      "https://www.shanghaimuseum.net/"
+    ]
+  },
+  "taipei 101::taipei": {
+    "query_type": "attraction_info",
+    "name": "台北101",
+    "description": "Taipei 101, formerly known as the Taipei World Financial Center, is a 508-meter, 101-story skyscraper in Taipei, Taiwan. It is owned by the Taipei Financial Center Corporation. It was officially classified as the world's tallest building from its opening on 31 December 2004, until it was dethroned by the Burj Khalifa in 2009. Upon completion, it became the world's first skyscraper to exceed half a kilometer. It is the tallest building in Taiwan and the eleventh tallest in the world.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Taipei_101_logo.svg/330px-Taipei_101_logo.svg.png",
+    "opening_hours": "",
+    "visit_duration": "1-2 hours (estimated)",
+    "ticket_price": "RM 2820",
+    "ticket_status": "partially_paid",
+    "price_type": "exact",
+    "price_note": "The admission price is for the Taipei 101 Observatory (indoor observation deck on floor 89, outdoor on floor 91).",
+    "ticket_price_candidates": [
+      {
+        "value": 600.0,
+        "currency": "USD",
+        "raw_price_text": "$600",
+        "context": "tory Official admission ticket The admission for the Taipei 101 Observatory was $600 NTD. The indoor observation deck was on floor 89; the outdoor observation deck",
+        "title": "TAIPEI 101 Observatory Official admission ticket",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 70,
+        "score_reasons": [
+          "official/government source",
+          "ticket/admission wording"
+        ],
+        "url": "https://www.tripadvisor.com/AttractionProductReview-g13808515-d19645973-TAIPEI_101_Observatory_Official_admission_ticket-Xinyi_District_Taipei.html"
+      },
+      {
+        "value": 58.0,
+        "currency": "USD",
+        "raw_price_text": "$ 58",
+        "context": "Opened 31&#160;December 2004 &#59;&#32;21 years ago &#160;( 2004-12-31 ) Cost NT$ 58 billion (US$1.9 billion) Owner Taipei Financial Center Corporation &#91; 2 &#93",
+        "title": "Taipei 101",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -10,
+        "score_reasons": [
+          "weak/non-official source"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Taipei_101"
+      },
+      {
+        "value": 1.9,
+        "currency": "USD",
+        "raw_price_text": "$1.9",
+        "context": "ecember 2004 &#59;&#32;21 years ago &#160;( 2004-12-31 ) Cost NT$ 58 billion (US$1.9 billion) Owner Taipei Financial Center Corporation &#91; 2 &#93; Height Height",
+        "title": "Taipei 101",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -10,
+        "score_reasons": [
+          "weak/non-official source"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Taipei_101"
+      },
+      {
+        "value": 60.0,
+        "currency": "USD",
+        "raw_price_text": "$60",
+        "context": "inspections and upgrades in wiring, water and lighting equipment at a cost of NT$60&#160;million (US$1.8&#160;million). Estimates showed the savings resulting from",
+        "title": "Taipei 101",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -10,
+        "score_reasons": [
+          "weak/non-official source"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Taipei_101"
+      },
+      {
+        "value": 1.8,
+        "currency": "USD",
+        "raw_price_text": "$1.8",
+        "context": "ades in wiring, water and lighting equipment at a cost of NT$60&#160;million (US$1.8&#160;million). Estimates showed the savings resulting from the modifications pa",
+        "title": "Taipei 101",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -10,
+        "score_reasons": [
+          "weak/non-official source"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Taipei_101"
+      },
+      {
+        "value": 60.0,
+        "currency": "USD",
+        "raw_price_text": "$60",
+        "context": "r \"Existing Buildings: Operations and Maintenance\". Although the project cost NT$60&#160;million (US$2.08&#160;million), it is expected to save 14.4&#160;million k",
+        "title": "Taipei 101",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -10,
+        "score_reasons": [
+          "weak/non-official source"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Taipei_101"
+      },
+      {
+        "value": 2.08,
+        "currency": "USD",
+        "raw_price_text": "$2.08",
+        "context": "s: Operations and Maintenance\". Although the project cost NT$60&#160;million (US$2.08&#160;million), it is expected to save 14.4&#160;million kilowatt-hours of elect",
+        "title": "Taipei 101",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -10,
+        "score_reasons": [
+          "weak/non-official source"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Taipei_101"
+      },
+      {
+        "value": 36.0,
+        "currency": "USD",
+        "raw_price_text": "$36",
+        "context": "million kilowatt-hours of electricity, or an 18% energy-saving, equivalent to NT$36&#160;million (US$1.2&#160;million) in energy costs each year. &#91; 14 &#93; In",
+        "title": "Taipei 101",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -10,
+        "score_reasons": [
+          "weak/non-official source"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Taipei_101"
+      },
+      {
+        "value": 1.2,
+        "currency": "USD",
+        "raw_price_text": "$1.2",
+        "context": "rs of electricity, or an 18% energy-saving, equivalent to NT$36&#160;million (US$1.2&#160;million) in energy costs each year. &#91; 14 &#93; In 2019, it was named a",
+        "title": "Taipei 101",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -10,
+        "score_reasons": [
+          "weak/non-official source"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Taipei_101"
+      },
+      {
+        "value": 132.0,
+        "currency": "USD",
+        "raw_price_text": "$132",
+        "context": "91; 60 &#93; steel pendulum that serves as a tuned mass damper , at a cost of NT$132&#160;million (US$4&#160;million). &#91; 61 &#93; Suspended from the 92nd to the",
+        "title": "Taipei 101",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -10,
+        "score_reasons": [
+          "weak/non-official source"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Taipei_101"
+      },
+      {
+        "value": 4.0,
+        "currency": "USD",
+        "raw_price_text": "$4",
+        "context": "ndulum that serves as a tuned mass damper , at a cost of NT$132&#160;million (US$4&#160;million). &#91; 61 &#93; Suspended from the 92nd to the 88th floor, the pe",
+        "title": "Taipei 101",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -10,
+        "score_reasons": [
+          "weak/non-official source"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Taipei_101"
+      },
+      {
+        "value": 80.0,
+        "currency": "USD",
+        "raw_price_text": "$80",
+        "context": "'s first triple-stage anti-overshooting system. The cost for each elevator is NT$80&#160;million (US$2.4&#160;million). &#91; 94 &#93; &#91; 95 &#93; In 2016, the",
+        "title": "Taipei 101",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -10,
+        "score_reasons": [
+          "weak/non-official source"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Taipei_101"
+      },
+      {
+        "value": 2.4,
+        "currency": "USD",
+        "raw_price_text": "$2.4",
+        "context": "e anti-overshooting system. The cost for each elevator is NT$80&#160;million (US$2.4&#160;million). &#91; 94 &#93; &#91; 95 &#93; In 2016, the title for the fastest",
+        "title": "Taipei 101",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -10,
+        "score_reasons": [
+          "weak/non-official source"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Taipei_101"
+      },
+      {
+        "value": 2068.0,
+        "currency": "USD",
+        "raw_price_text": "$20,68",
+        "context": "ease the site for 70 years and develop a building, placing the winning bid of NT$20,688,890,000 for the Build Operate Transfer agreement with the city government. &#9",
+        "title": "Taipei 101",
+        "source": "generic_attraction_page",
+        "source_type": "generic_attraction_page",
+        "source_bucket": "weak",
+        "score": -45,
+        "score_reasons": [
+          "weak/non-official source",
+          "package/tour wording"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Taipei_101"
+      }
+    ],
+    "sources": [
+      "https://www.openstreetmap.org/way/1159328965",
+      "https://en.wikipedia.org/wiki/Taipei_101",
+      "https://www.taipei-101.com.tw/",
+      "https://www.tripadvisor.com/AttractionProductReview-g13808515-d19645973-TAIPEI_101_Observatory_Official_admission_ticket-Xinyi_District_Taipei.html",
+      "https://www.tripadvisor.com/Attraction_Review-g13808515-d6554047-Reviews-TAIPEI_101_Observatory-Xinyi_District_Taipei.html"
+    ]
+  },
+  "national palace museum::taipei": {
+    "query_type": "attraction_info",
+    "name": "National Palace Museum",
+    "description": "The National Palace Museum, also known as Taipei Palace Museum, is a national museum headquartered in Taipei, Taiwan. Founded in Beijing in 1925, the museum was re-established in Shilin, Taipei, in 1965, later expanded with a southern branch in Taibao, Chiayi, in 2015.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/National_Palace_Museum_logo.svg/330px-National_Palace_Museum_logo.svg.png",
+    "opening_hours": "Monday closures will resume starting October 13. 20251027sen--> Tue～Sun 9:00-17:00",
+    "visit_duration": "1.5-3.5 hours",
+    "ticket_price": "RM 1645",
+    "ticket_status": "paid",
+    "price_type": "official",
+    "price_note": "Selected 'Regular Ticket NT $350' for Exhibition Hall I from the official website, which is corroborated by 'Non- R.O.C. Citizen Ticket NT $350' from another official source. Other prices were for combined tickets, discount tickets, group tickets with rental fees, specific exhibitions, or the Southern Branch.",
+    "ticket_price_candidates": [
+      {
+        "value": 250.0,
+        "currency": "USD",
+        "raw_price_text": "$250",
+        "context": "ibition is outlined below: (1)Discount ticket (senior/disability concession): NT$250 &nbsp; &nbsp; ◆ For visitors aged 65 and above (born in or before 1960), with v",
+        "title": "National Palace Museum Visit > Admission",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 73,
+        "score_reasons": [
+          "official/government source",
+          "ticket/admission wording",
+          "structured pricing wording"
+        ],
+        "url": "https://www.npm.gov.tw/Articles.aspx?sno=02007004&l=2"
+      },
+      {
+        "value": 350.0,
+        "currency": "USD",
+        "raw_price_text": "$350",
+        "context": "alace Museum Visit > Admission Admission · Exhibition Hall I. Regular Ticket NT $350 · Combined Tickets NT $820. National Palace Museum Northern Branch Exhibition H",
+        "title": "National Palace Museum Visit > Admission",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 70,
+        "score_reasons": [
+          "official/government source",
+          "ticket/admission wording"
+        ],
+        "url": "https://www.npm.gov.tw/Articles.aspx?sno=02007004&l=2"
+      },
+      {
+        "value": 820.0,
+        "currency": "USD",
+        "raw_price_text": "$820",
+        "context": "ion Admission · Exhibition Hall I. Regular Ticket NT $350 · Combined Tickets NT $820. National Palace Museum Northern Branch Exhibition Hall I–Taipei ...",
+        "title": "National Palace Museum Visit > Admission",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 70,
+        "score_reasons": [
+          "official/government source",
+          "ticket/admission wording"
+        ],
+        "url": "https://www.npm.gov.tw/Articles.aspx?sno=02007004&l=2"
+      },
+      {
+        "value": 350.0,
+        "currency": "USD",
+        "raw_price_text": "$350",
+        "context": "p; Online E-Ticket &nbsp; Group Reservation Exhibition Hall I Regular Ticket NT $350 Group Ticket NT $320 Groups of 10 or more (Group admission is NT $320 per perso",
+        "title": "National Palace Museum Visit > Admission",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 70,
+        "score_reasons": [
+          "official/government source",
+          "ticket/admission wording"
+        ],
+        "url": "https://www.npm.gov.tw/Articles.aspx?sno=02007004&l=2"
+      },
+      {
+        "value": 450.0,
+        "currency": "USD",
+        "raw_price_text": "$450",
+        "context": "on ticket for the From Impressionism to Early Modernism exhibition on site at NT$450. For visitors holding a free ticket (NT$0) for Exhibition Hall 1, their eligibi",
+        "title": "National Palace Museum Visit > Admission",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 70,
+        "score_reasons": [
+          "official/government source",
+          "ticket/admission wording"
+        ],
+        "url": "https://www.npm.gov.tw/Articles.aspx?sno=02007004&l=2"
+      },
+      {
+        "value": 0.0,
+        "currency": "USD",
+        "raw_price_text": "$0",
+        "context": "y Modernism exhibition on site at NT$450. For visitors holding a free ticket (NT$0) for Exhibition Hall 1, their eligibility for discounted or free admission to t",
+        "title": "National Palace Museum Visit > Admission",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 70,
+        "score_reasons": [
+          "official/government source",
+          "ticket/admission wording"
+        ],
+        "url": "https://www.npm.gov.tw/Articles.aspx?sno=02007004&l=2"
+      },
+      {
+        "value": 820.0,
+        "currency": "USD",
+        "raw_price_text": "$820",
+        "context": "ere Communications&rsquo; official website . 20251013sen--> Combined Tickets NT $820 National Palace Museum Northern Branch Exhibition Hall I&ndash;Taipei 101 Obser",
+        "title": "National Palace Museum Visit > Admission",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 70,
+        "score_reasons": [
+          "official/government source",
+          "ticket/admission wording"
+        ],
+        "url": "https://www.npm.gov.tw/Articles.aspx?sno=02007004&l=2"
+      },
+      {
+        "value": 150.0,
+        "currency": "USD",
+        "raw_price_text": "$150",
+        "context": "Admission Tickets-National Palace Museum 100+ ... General Ticket NT $150 · Visitors of all nationalities · For groups of 10 or more, there will be a ren",
+        "title": "Admission Tickets-National Palace Museum 100+ ...",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 70,
+        "score_reasons": [
+          "official/government source",
+          "ticket/admission wording"
+        ],
+        "url": "https://theme.npm.edu.tw/npm100/en/visit/ticket"
+      },
+      {
+        "value": 150.0,
+        "currency": "USD",
+        "raw_price_text": "$150",
+        "context": "Admission Tickets Admission Tickets Northern Branch Citizen Discount Ticket NT $150 R.O.C. citizens with a valid identification document (the same rule applies for",
+        "title": "Admission Tickets-National Palace Museum 100+ ...",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 70,
+        "score_reasons": [
+          "official/government source",
+          "ticket/admission wording"
+        ],
+        "url": "https://theme.npm.edu.tw/npm100/en/visit/ticket"
+      },
+      {
+        "value": 150.0,
+        "currency": "USD",
+        "raw_price_text": "$150",
+        "context": "bsp; &nbsp; Online tickets &nbsp; &nbsp; Southern Branch General&nbsp;Ticket NT $150 Visitors of all nationalities For groups of 10 or more,&nbsp;there will be a re",
+        "title": "Admission Tickets-National Palace Museum 100+ ...",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 70,
+        "score_reasons": [
+          "official/government source",
+          "ticket/admission wording"
+        ],
+        "url": "https://theme.npm.edu.tw/npm100/en/visit/ticket"
+      },
+      {
+        "value": 320.0,
+        "currency": "USD",
+        "raw_price_text": "$320",
+        "context": "bsp; Group Reservation Exhibition Hall I Regular Ticket NT $350 Group Ticket NT $320 Groups of 10 or more (Group admission is NT $320 per person, plus a rental fee",
+        "title": "National Palace Museum Visit > Admission",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 40,
+        "score_reasons": [
+          "official/government source",
+          "ticket/admission wording",
+          "non-admission fee wording"
+        ],
+        "url": "https://www.npm.gov.tw/Articles.aspx?sno=02007004&l=2"
+      },
+      {
+        "value": 50.0,
+        "currency": "USD",
+        "raw_price_text": "$50",
+        "context": "fee of NT $30 for the NPM group audio tour system, which will be adjusted to NT $50 per person from May 1, 2026) All purchasers of group tickets must use the NPM g",
+        "title": "National Palace Museum Visit > Admission",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 35,
+        "score_reasons": [
+          "official/government source",
+          "ticket/admission wording",
+          "package/tour wording"
+        ],
+        "url": "https://www.npm.gov.tw/Articles.aspx?sno=02007004&l=2"
+      },
+      {
+        "value": 150.0,
+        "currency": "USD",
+        "raw_price_text": "$150",
+        "context": "of group tickets must use the NPM group audio tour system . Discount Ticket NT $150 R.O.C. citizens with valid identification documents (the same rule applies to g",
+        "title": "National Palace Museum Visit > Admission",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 35,
+        "score_reasons": [
+          "official/government source",
+          "ticket/admission wording",
+          "package/tour wording"
+        ],
+        "url": "https://www.npm.gov.tw/Articles.aspx?sno=02007004&l=2"
+      },
+      {
+        "value": 50.0,
+        "currency": "USD",
+        "raw_price_text": "$50",
+        "context": "fee of NT $30 for the NPM group audio tour system, which will be adjusted to NT $50 per person from May 1, 2026. Free Visitors (of all nationalities) aged 17 and u",
+        "title": "National Palace Museum Visit > Admission",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 35,
+        "score_reasons": [
+          "official/government source",
+          "ticket/admission wording",
+          "package/tour wording"
+        ],
+        "url": "https://www.npm.gov.tw/Articles.aspx?sno=02007004&l=2"
+      },
+      {
+        "value": 350.0,
+        "currency": "USD",
+        "raw_price_text": "$350",
+        "context": "ental fee of NTD$30 for NPM's audio tour system.) Non- R.O.C. Citizen Ticket NT $350 Group ticket NT$320 Groups of 10 or more (group admission is NTD$320 per person",
+        "title": "Admission Tickets-National Palace Museum 100+ ...",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 35,
+        "score_reasons": [
+          "official/government source",
+          "ticket/admission wording",
+          "package/tour wording"
+        ],
+        "url": "https://theme.npm.edu.tw/npm100/en/visit/ticket"
+      },
+      {
+        "value": 320.0,
+        "currency": "USD",
+        "raw_price_text": "$320",
+        "context": "Ticket NT $350 Group Ticket NT $320 Groups of 10 or more (Group admission is NT $320 per person, plus a rental fee of NT $30 for the NPM group audio tour system, wh",
+        "title": "National Palace Museum Visit > Admission",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 5,
+        "score_reasons": [
+          "official/government source",
+          "ticket/admission wording",
+          "non-admission fee wording",
+          "package/tour wording"
+        ],
+        "url": "https://www.npm.gov.tw/Articles.aspx?sno=02007004&l=2"
+      },
+      {
+        "value": 30.0,
+        "currency": "USD",
+        "raw_price_text": "$30",
+        "context": "s of 10 or more (Group admission is NT $320 per person, plus a rental fee of NT $30 for the NPM group audio tour system, which will be adjusted to NT $50 per perso",
+        "title": "National Palace Museum Visit > Admission",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 5,
+        "score_reasons": [
+          "official/government source",
+          "ticket/admission wording",
+          "non-admission fee wording",
+          "package/tour wording"
+        ],
+        "url": "https://www.npm.gov.tw/Articles.aspx?sno=02007004&l=2"
+      },
+      {
+        "value": 150.0,
+        "currency": "USD",
+        "raw_price_text": "$150",
+        "context": "ien permanent resident certificate *Groups of 10 or more: Group admission is NT $150 per person, plus a rental fee of NT $30 for the NPM group audio tour system, wh",
+        "title": "National Palace Museum Visit > Admission",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 5,
+        "score_reasons": [
+          "official/government source",
+          "ticket/admission wording",
+          "non-admission fee wording",
+          "package/tour wording"
+        ],
+        "url": "https://www.npm.gov.tw/Articles.aspx?sno=02007004&l=2"
+      },
+      {
+        "value": 30.0,
+        "currency": "USD",
+        "raw_price_text": "$30",
+        "context": "s of 10 or more: Group admission is NT $150 per person, plus a rental fee of NT $30 for the NPM group audio tour system, which will be adjusted to NT $50 per perso",
+        "title": "National Palace Museum Visit > Admission",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 5,
+        "score_reasons": [
+          "official/government source",
+          "ticket/admission wording",
+          "non-admission fee wording",
+          "package/tour wording"
+        ],
+        "url": "https://www.npm.gov.tw/Articles.aspx?sno=02007004&l=2"
+      },
+      {
+        "value": 30.0,
+        "currency": "USD",
+        "raw_price_text": "$30",
+        "context": "all nationalities · For groups of 10 or more, there will be a rental fee of NTD$30 per visitor for NPM's audio tour system ...",
+        "title": "Admission Tickets-National Palace Museum 100+ ...",
+        "source": "official_ticket_page",
+        "source_type": "official_ticket_page",
+        "source_bucket": "official",
+        "score": 5,
+        "score_reasons": [
+          "official/government source",
+          "ticket/admission wording",
+          "non-admission fee wording",
+          "package/tour wording"
+        ],
+        "url": "https://theme.npm.edu.tw/npm100/en/visit/ticket"
+      }
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/National_Palace_Museum",
+      "https://www.openstreetmap.org/way/827791918",
+      "https://www.npm.gov.tw/Articles.aspx?sno=02007004&l=2",
+      "https://www.npm.gov.tw/?l=2",
+      "https://theme.npm.edu.tw/npm100/en/visit/ticket"
+    ]
+  },
+  "chiang kai-shek memorial hall::taipei": {
+    "query_type": "attraction_info",
+    "name": "Chiang Kai-shek Memorial Hall",
+    "description": "The Chiang Kai-shek Memorial Hall is a national monument and tourist attraction erected in memory of Chiang Kai-shek, former President of the Republic of China. It is located in Taipei, Taiwan.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Chiang_Kai-shek_memorial_amk.jpg/330px-Chiang_Kai-shek_memorial_amk.jpg",
+    "opening_hours": "9:00 AM - 6:00 PM",
+    "visit_duration": "3 hours",
+    "ticket_price": "Free",
+    "ticket_status": "free",
+    "price_type": "free",
+    "price_note": "Multiple official sources indicate free admission for the permanent exhibitions and general entry.",
+    "ticket_price_candidates": [
+      {
+        "value": 100.0,
+        "currency": "USD",
+        "raw_price_text": "$1,00",
+        "context": "r ARC/APRC). Those who do not have an ID will be required to pay a deposit of NT$1,000. The deposit/ID will be returned upon the return of the audio-guide device. 3.",
+        "title": "National Chiang Kai-shek Memorial Hall-Visit Info",
+        "source": "official_visitor_info",
+        "source_type": "official_visitor_info",
+        "source_bucket": "official",
+        "score": 50,
+        "score_reasons": [
+          "official/government source"
+        ],
+        "url": "https://www.cksmh.gov.tw/en/cp.aspx?n=6369"
+      }
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Chiang_Kai-shek_Memorial_Hall",
+      "https://www.openstreetmap.org/way/1052759757",
+      "https://www.cksmh.gov.tw/en/cp.aspx?n=6369",
+      "https://www.cksmh.gov.tw/en/cp.aspx?n=6425",
+      "https://www.cksmh.gov.tw/en/"
+    ]
+  },
+  "longshan temple::taipei": {
+    "query_type": "attraction_info",
+    "name": "Longshan Temple",
+    "description": "Longshan Temple may refer to:Longshan Temple (Zhuzhou), Zhuzhou, Hunan, China.\nLongshan Temple (Jinjiang), Jinjiang, Fujian, China\nLongshan Temple (Lukang), Changhua, Taiwan\nLungshan Temple (Taipei), located in Wanhua District, Taipei, Taiwan\nFengshan Longshan Temple, Kaohsiung, Taiwan",
+    "image_url": "https://serpapi.com/searches/69c49847fbbeb597b681fc2f/images/Jg4GqJXITjIl9LC2HFavH9up6BWQtyJdegI6f_RllVA.png",
+    "opening_hours": "",
+    "visit_duration": "2-3 hours (estimated)",
+    "ticket_price": "",
+    "ticket_status": "unknown",
+    "price_type": "unknown",
+    "price_note": "Official price not found.",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Longshan_Temple",
+      "https://www.openstreetmap.org/node/3639530981",
+      "https://www.moc.gov.tw/en/News_Content2.aspx?n=507&s=18447",
+      "https://english.gov.taipei/News_Content.aspx?n=460F7826293CF0BA&sms=07D68BC61ECBFF67&s=BEDD7FD176D76E36",
+      "https://en.wikipedia.org/wiki/Longshan_Temple_(Taipei)"
+    ]
+  },
+  "shilin night market::taipei": {
+    "query_type": "attraction_info",
+    "name": "Shilin Night Market",
+    "description": "Shilin Night Market is a night market in Shilin District, Taipei, Taiwan, often considered to be the largest and most famous night market in Taiwan.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Shilin_night_market_alley_2.jpg/330px-Shilin_night_market_alley_2.jpg",
+    "opening_hours": "Monday to Friday 8:30am~17:30",
+    "visit_duration": "1.5 hours",
+    "ticket_price": "Free",
+    "ticket_status": "free",
+    "price_type": "free",
+    "price_note": "Official sources describe Shilin Night Market as a public space with food vendors and shops, without mentioning any admission or entry fees. One official source explicitly provides a 'free' candidate, indicating no charge for market entry.",
+    "ticket_price_candidates": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Shilin_Night_Market",
+      "https://www.openstreetmap.org/way/262526188",
+      "https://english.tpedoit.gov.taipei/News_Video_Content.aspx?n=47BE2C4F92229976&sms=72A8BDE25FF5B2FA&s=FDBB453A4F2CA580",
+      "https://english.tcma.gov.taipei/News_Content.aspx?n=8D1486E0B9D99902&sms=EA204939C1676EF8&s=182585CB69F563D8"
+    ]
   }
 }
